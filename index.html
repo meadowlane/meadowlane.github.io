@@ -63,6 +63,13 @@ function populateDropdowns() {
     let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
     let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
 
+    // Sort locations by time
+    uniqueLocations = uniqueLocations.sort((a, b) => {
+        const timeA = a.split(' and ')[0];
+        const timeB = b.split(' and ')[0];
+        return timeA.localeCompare(timeB, undefined, {numeric: true, hour12: false});
+    });
+
     $("#campNameSelect").select2({
         theme: 'bootstrap',
         allowClear: true,
@@ -94,6 +101,7 @@ function populateDropdowns() {
         searchEvents();
     });
 }
+
 
 function searchEvents() {
     const selectedCamp = $("#campNameSelect").val();

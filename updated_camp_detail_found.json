@@ -8,7 +8,7 @@
     },
     {
         "Camp Name": "!Zoom!",
-        "Location": "A & 5:15",
+        "Location": "5:15 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42527/",
             "https://playaevents.burningman.org/2023/playa_event/42528/"
@@ -23,7 +23,7 @@
     },
     {
         "Camp Name": "1001 Nights",
-        "Location": "F & 9:15",
+        "Location": "9:15 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41291/",
             "https://playaevents.burningman.org/2023/playa_event/41357/"
@@ -40,14 +40,14 @@
     },
     {
         "Camp Name": "3907",
-        "Location": "4:30 B Plaza",
+        "Location": "4:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42873/"
         ]
     },
     {
         "Camp Name": "3SP (Third Space Place)",
-        "Location": "F & 4:45",
+        "Location": "4:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44859/",
             "https://playaevents.burningman.org/2023/playa_event/43624/",
@@ -67,7 +67,7 @@
     },
     {
         "Camp Name": "7 Sins Lounge",
-        "Location": "B & 3:45",
+        "Location": "3:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42874/",
             "https://playaevents.burningman.org/2023/playa_event/41784/"
@@ -82,7 +82,7 @@
     },
     {
         "Camp Name": "8-bit Bunny",
-        "Location": "D & 7:15",
+        "Location": "7:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/40992/"
         ]
@@ -143,7 +143,7 @@
     },
     {
         "Camp Name": "ATypical Forest",
-        "Location": "E & 3:45",
+        "Location": "3:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42104/"
         ]
@@ -175,7 +175,7 @@
     },
     {
         "Camp Name": "Academy of Arts and Sciences",
-        "Location": "E & 2:45",
+        "Location": "2:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41740/",
             "https://playaevents.burningman.org/2023/playa_event/41805/",
@@ -198,7 +198,7 @@
     },
     {
         "Camp Name": "AdramaNation",
-        "Location": "G & 7:45",
+        "Location": "7:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43074/",
             "https://playaevents.burningman.org/2023/playa_event/41712/",
@@ -250,7 +250,7 @@
     },
     {
         "Camp Name": "Afterglow Lounge & Spa",
-        "Location": "F & 3:45",
+        "Location": "3:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42294/"
         ]
@@ -409,7 +409,7 @@
     },
     {
         "Camp Name": "Argonauts",
-        "Location": "D & 5:15",
+        "Location": "5:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41887/"
         ]
@@ -458,7 +458,7 @@
     },
     {
         "Camp Name": "Astro Cats",
-        "Location": "G & 6:45",
+        "Location": "6:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42217/",
             "https://playaevents.burningman.org/2023/playa_event/42209/",
@@ -475,14 +475,14 @@
     },
     {
         "Camp Name": "Ataraxia",
-        "Location": "Esplanade & 8:15",
+        "Location": "8:15 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43383/"
         ]
     },
     {
         "Camp Name": "Atom Cult",
-        "Location": "D & 7:45",
+        "Location": "7:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42242/",
             "https://playaevents.burningman.org/2023/playa_event/42246/",
@@ -498,7 +498,7 @@
     },
     {
         "Camp Name": "Atypical Camp",
-        "Location": "E & 4:45",
+        "Location": "4:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42104/",
             "https://playaevents.burningman.org/2023/playa_event/43477/"
@@ -553,7 +553,7 @@
     },
     {
         "Camp Name": "Awesomesauce",
-        "Location": "D & 7:15",
+        "Location": "7:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42182/",
             "https://playaevents.burningman.org/2023/playa_event/42183/"
@@ -561,7 +561,7 @@
     },
     {
         "Camp Name": "Awkward & Tawdry Lounge",
-        "Location": "7:30 B Plaza",
+        "Location": "7:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43844/",
             "https://playaevents.burningman.org/2023/playa_event/43850/",
@@ -627,7 +627,7 @@
     },
     {
         "Camp Name": "BRC Hash House Harriers (BRCH3)",
-        "Location": "B & 7:45",
+        "Location": "7:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42320/",
             "https://playaevents.burningman.org/2023/playa_event/42314/",
@@ -636,7 +636,7 @@
     },
     {
         "Camp Name": "BRC Snow Club",
-        "Location": "4:30 G Plaza",
+        "Location": "4:30 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44481/",
             "https://playaevents.burningman.org/2023/playa_event/44504/"
@@ -644,7 +644,7 @@
     },
     {
         "Camp Name": "BRC Tour of Home",
-        "Location": "A & 3:15",
+        "Location": "3:15 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41721/",
             "https://playaevents.burningman.org/2023/playa_event/41753/",
@@ -663,7 +663,7 @@
     },
     {
         "Camp Name": "BS BOOZE CRUZ",
-        "Location": "B & 7:45",
+        "Location": "7:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41211/",
             "https://playaevents.burningman.org/2023/playa_event/41351/",
@@ -735,7 +735,7 @@
     },
     {
         "Camp Name": "Badlands Bordello",
-        "Location": "E & 9:15",
+        "Location": "9:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43480/",
             "https://playaevents.burningman.org/2023/playa_event/43488/"
@@ -798,7 +798,7 @@
     },
     {
         "Camp Name": "Base Camp",
-        "Location": "B & 7:15",
+        "Location": "7:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42912/",
             "https://playaevents.burningman.org/2023/playa_event/42915/"
@@ -806,7 +806,7 @@
     },
     {
         "Camp Name": "BatCave",
-        "Location": "D & 7:45",
+        "Location": "7:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43390/"
         ]
@@ -836,14 +836,14 @@
     },
     {
         "Camp Name": "Benevolent Elephant",
-        "Location": "7:30 G Plaza",
+        "Location": "7:30 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45047/"
         ]
     },
     {
         "Camp Name": "Best Butt",
-        "Location": "C & 9:15",
+        "Location": "9:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43551/",
             "https://playaevents.burningman.org/2023/playa_event/43549/"
@@ -941,7 +941,7 @@
     },
     {
         "Camp Name": "Black Rock Center for Unlearning",
-        "Location": "4:30 B Plaza",
+        "Location": "4:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42033/",
             "https://playaevents.burningman.org/2023/playa_event/42064/",
@@ -980,7 +980,7 @@
     },
     {
         "Camp Name": "Black Rock City Passport Office",
-        "Location": "Center Camp Plaza @ 3:30",
+        "Location": "3:30 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41488/",
             "https://playaevents.burningman.org/2023/playa_event/41508/"
@@ -988,7 +988,7 @@
     },
     {
         "Camp Name": "Black Rock City Tea Company",
-        "Location": "Center Camp Plaza @ 4:00",
+        "Location": "4:00 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42004/",
             "https://playaevents.burningman.org/2023/playa_event/42007/",
@@ -1024,7 +1024,7 @@
     },
     {
         "Camp Name": "Black Rock Sauna Society",
-        "Location": "E & 6:45",
+        "Location": "6:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43328/",
             "https://playaevents.burningman.org/2023/playa_event/43327/"
@@ -1041,7 +1041,7 @@
     },
     {
         "Camp Name": "Black Rock Yearbook",
-        "Location": "Center Camp Plaza @ 3:30",
+        "Location": "3:30 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43145/"
         ]
@@ -1065,7 +1065,7 @@
     },
     {
         "Camp Name": "Bob's Bar",
-        "Location": "3:00 Portal",
+        "Location": "3:00 & Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44374/",
             "https://playaevents.burningman.org/2023/playa_event/44382/",
@@ -1138,7 +1138,7 @@
     },
     {
         "Camp Name": "Brewed Awakening",
-        "Location": "C & 8:45",
+        "Location": "8:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43160/"
         ]
@@ -1160,7 +1160,7 @@
     },
     {
         "Camp Name": "Brulee",
-        "Location": "7:30 Portal",
+        "Location": "7:30 & Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44325/",
             "https://playaevents.burningman.org/2023/playa_event/44082/",
@@ -1181,7 +1181,7 @@
     },
     {
         "Camp Name": "Bubbles and Bass",
-        "Location": "Esplanade & 9:00 Portal",
+        "Location": "9:00 & Esplanade &  Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44319/",
             "https://playaevents.burningman.org/2023/playa_event/42865/"
@@ -1252,21 +1252,21 @@
     },
     {
         "Camp Name": "Burning My Cr\u00eape",
-        "Location": "F & 4:15",
+        "Location": "4:15 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44795/"
         ]
     },
     {
         "Camp Name": "Burning Questions",
-        "Location": "G & 7:45",
+        "Location": "7:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42694/"
         ]
     },
     {
         "Camp Name": "BurningShip",
-        "Location": "D & 7:15",
+        "Location": "7:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41485/",
             "https://playaevents.burningman.org/2023/playa_event/41511/"
@@ -1292,7 +1292,7 @@
     },
     {
         "Camp Name": "Butt Putt",
-        "Location": "G & 5:15",
+        "Location": "5:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44757/",
             "https://playaevents.burningman.org/2023/playa_event/43347/",
@@ -1306,7 +1306,7 @@
     },
     {
         "Camp Name": "CAMP JUICY",
-        "Location": "D & 5:15",
+        "Location": "5:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41714/"
         ]
@@ -1328,7 +1328,7 @@
     },
     {
         "Camp Name": "Cafetopia",
-        "Location": "C & 6:45",
+        "Location": "6:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44305/"
         ]
@@ -1372,7 +1372,7 @@
     },
     {
         "Camp Name": "Camp Brewhaha",
-        "Location": "G & 6:15",
+        "Location": "6:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43222/",
             "https://playaevents.burningman.org/2023/playa_event/43220/"
@@ -1380,7 +1380,7 @@
     },
     {
         "Camp Name": "Camp Butter",
-        "Location": "F & 4:45",
+        "Location": "4:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43897/",
             "https://playaevents.burningman.org/2023/playa_event/43902/"
@@ -1401,7 +1401,7 @@
     },
     {
         "Camp Name": "Camp Camp Camp",
-        "Location": "A & 9:45",
+        "Location": "9:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44845/"
         ]
@@ -1472,7 +1472,7 @@
     },
     {
         "Camp Name": "Camp DOA Champagne Bar",
-        "Location": "G & 3:15",
+        "Location": "3:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41249/",
             "https://playaevents.burningman.org/2023/playa_event/41114/",
@@ -1483,7 +1483,7 @@
     },
     {
         "Camp Name": "Camp Desert of Eden",
-        "Location": "G & 6:45",
+        "Location": "6:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45045/",
             "https://playaevents.burningman.org/2023/playa_event/43135/",
@@ -1508,14 +1508,14 @@
     },
     {
         "Camp Name": "Camp Ephemeral",
-        "Location": "E & 4:15",
+        "Location": "4:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43023/"
         ]
     },
     {
         "Camp Name": "Camp Equilibrium",
-        "Location": "C & 8:45",
+        "Location": "8:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41739/",
             "https://playaevents.burningman.org/2023/playa_event/41364/"
@@ -1549,7 +1549,7 @@
     },
     {
         "Camp Name": "Camp Gotalotgoinon",
-        "Location": "H & 4:15",
+        "Location": "4:15 & H",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42893/",
             "https://playaevents.burningman.org/2023/playa_event/42894/"
@@ -1557,7 +1557,7 @@
     },
     {
         "Camp Name": "Camp Hap\u00e9",
-        "Location": "D & 2:15",
+        "Location": "2:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42930/"
         ]
@@ -1595,7 +1595,7 @@
     },
     {
         "Camp Name": "Camp Just Ahead",
-        "Location": "G & 6:15",
+        "Location": "6:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43031/"
         ]
@@ -1625,7 +1625,7 @@
     },
     {
         "Camp Name": "Camp Morning Wood",
-        "Location": "E & 7:45",
+        "Location": "7:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45093/",
             "https://playaevents.burningman.org/2023/playa_event/45092/",
@@ -1677,7 +1677,7 @@
     },
     {
         "Camp Name": "Camp Oktawonk",
-        "Location": "Rod's Ring Road @ 9:45",
+        "Location": "9:45 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43982/",
             "https://playaevents.burningman.org/2023/playa_event/43987/",
@@ -1745,7 +1745,7 @@
     },
     {
         "Camp Name": "Camp Pull My Finger",
-        "Location": "E & 7:45",
+        "Location": "7:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41628/",
             "https://playaevents.burningman.org/2023/playa_event/41645/"
@@ -1780,7 +1780,7 @@
     },
     {
         "Camp Name": "Camp Slow Your Roll",
-        "Location": "C & 8:15",
+        "Location": "8:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42695/",
             "https://playaevents.burningman.org/2023/playa_event/42693/",
@@ -1793,7 +1793,7 @@
     },
     {
         "Camp Name": "Camp Sweaty Betty",
-        "Location": "A & 6:45",
+        "Location": "6:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41802/",
             "https://playaevents.burningman.org/2023/playa_event/41758/",
@@ -1982,7 +1982,7 @@
     },
     {
         "Camp Name": "Champagne Campaign",
-        "Location": "G & 7:45",
+        "Location": "7:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44934/",
             "https://playaevents.burningman.org/2023/playa_event/44933/"
@@ -1990,7 +1990,7 @@
     },
     {
         "Camp Name": "Champagne Lounge",
-        "Location": "Center Camp Plaza @ 4:30",
+        "Location": "4:30 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44198/",
             "https://playaevents.burningman.org/2023/playa_event/44209/",
@@ -2001,7 +2001,7 @@
     },
     {
         "Camp Name": "Chariot Project",
-        "Location": "A & 5:45",
+        "Location": "5:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43201/"
         ]
@@ -2024,7 +2024,7 @@
     },
     {
         "Camp Name": "Chill Ville On The Esplanade",
-        "Location": "Esplanade & 5:00",
+        "Location": "5:00 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44849/",
             "https://playaevents.burningman.org/2023/playa_event/44852/",
@@ -2081,7 +2081,7 @@
     },
     {
         "Camp Name": "ClusterF*ck United",
-        "Location": "G & 5:15",
+        "Location": "5:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44205/",
             "https://playaevents.burningman.org/2023/playa_event/42195/",
@@ -2097,7 +2097,7 @@
     },
     {
         "Camp Name": "CocoDisco",
-        "Location": "F & 4:45",
+        "Location": "4:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42877/",
             "https://playaevents.burningman.org/2023/playa_event/42882/"
@@ -2179,7 +2179,7 @@
     },
     {
         "Camp Name": "Consensual Abduction",
-        "Location": "C & 8:15",
+        "Location": "8:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43482/"
         ]
@@ -2206,7 +2206,7 @@
     },
     {
         "Camp Name": "Cool Cat Cafe",
-        "Location": "Rod's Ring Road @ 9:00",
+        "Location": "9:00 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42924/",
             "https://playaevents.burningman.org/2023/playa_event/43034/",
@@ -2217,7 +2217,7 @@
     },
     {
         "Camp Name": "CornHub",
-        "Location": "F & 4:45",
+        "Location": "4:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44421/"
         ]
@@ -2302,7 +2302,7 @@
     },
     {
         "Camp Name": "Costco Soulmate Trading Outlet",
-        "Location": "Rod's Ring Road @ 4:00",
+        "Location": "4:00 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44807/"
         ]
@@ -2337,7 +2337,7 @@
     },
     {
         "Camp Name": "Counter Culture",
-        "Location": "D & 7:15",
+        "Location": "7:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42124/"
         ]
@@ -2395,7 +2395,7 @@
     },
     {
         "Camp Name": "Crossroads & Moon Cheese Village",
-        "Location": "Esplanade & 8:45",
+        "Location": "8:45 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41123/",
             "https://playaevents.burningman.org/2023/playa_event/41078/",
@@ -2405,7 +2405,7 @@
     },
     {
         "Camp Name": "Cuddle Oasis",
-        "Location": "Esplanade & 7:15",
+        "Location": "7:15 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42559/",
             "https://playaevents.burningman.org/2023/playa_event/42701/",
@@ -2421,7 +2421,7 @@
     },
     {
         "Camp Name": "Cult of the Magic Lady",
-        "Location": "C & 7:45",
+        "Location": "7:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41279/",
             "https://playaevents.burningman.org/2023/playa_event/42169/"
@@ -2446,7 +2446,7 @@
     },
     {
         "Camp Name": "DISORIENT",
-        "Location": "Esplanade & 5:00",
+        "Location": "5:00 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42476/",
             "https://playaevents.burningman.org/2023/playa_event/42478/",
@@ -2468,7 +2468,7 @@
     },
     {
         "Camp Name": "Dark Heart Camp",
-        "Location": "6:00 G Plaza",
+        "Location": "6:00 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41877/",
             "https://playaevents.burningman.org/2023/playa_event/41863/",
@@ -2477,7 +2477,7 @@
     },
     {
         "Camp Name": "Dark Sparkle",
-        "Location": "B & 9:15",
+        "Location": "9:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42771/",
             "https://playaevents.burningman.org/2023/playa_event/42763/",
@@ -2486,7 +2486,7 @@
     },
     {
         "Camp Name": "Darkwad Patrol",
-        "Location": "B & 8:15",
+        "Location": "8:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42967/"
         ]
@@ -2572,7 +2572,7 @@
     },
     {
         "Camp Name": "Desperados",
-        "Location": "9:00 B Plaza",
+        "Location": "9:00 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44442/"
         ]
@@ -2632,7 +2632,7 @@
     },
     {
         "Camp Name": "Discrace",
-        "Location": "E & 3:45",
+        "Location": "3:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41252/",
             "https://playaevents.burningman.org/2023/playa_event/41157/",
@@ -2641,7 +2641,7 @@
     },
     {
         "Camp Name": "Disfunktion",
-        "Location": "A & 3:15",
+        "Location": "3:15 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44976/"
         ]
@@ -2689,7 +2689,7 @@
     },
     {
         "Camp Name": "Down Low Club",
-        "Location": "G & 6:45",
+        "Location": "6:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45057/",
             "https://playaevents.burningman.org/2023/playa_event/42745/",
@@ -2783,7 +2783,7 @@
     },
     {
         "Camp Name": "Dusty Frogz",
-        "Location": "G & 4:45",
+        "Location": "4:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41754/",
             "https://playaevents.burningman.org/2023/playa_event/41584/"
@@ -2791,7 +2791,7 @@
     },
     {
         "Camp Name": "Dusty Mule Saloon and Playground",
-        "Location": "C & 4:15",
+        "Location": "4:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41391/",
             "https://playaevents.burningman.org/2023/playa_event/41521/",
@@ -2800,14 +2800,14 @@
     },
     {
         "Camp Name": "Dusty Scouts of Camp Campy Camp",
-        "Location": "A & 3:15",
+        "Location": "3:15 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42819/"
         ]
     },
     {
         "Camp Name": "Dusty Taint",
-        "Location": "B & 3:15",
+        "Location": "3:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41166/",
             "https://playaevents.burningman.org/2023/playa_event/41319/"
@@ -2815,7 +2815,7 @@
     },
     {
         "Camp Name": "DustyDelight",
-        "Location": "B & 8:45",
+        "Location": "8:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45227/"
         ]
@@ -2835,14 +2835,14 @@
     },
     {
         "Camp Name": "EGGS Bar",
-        "Location": "Rod's Ring Road @ 2:45",
+        "Location": "2:45 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41010/"
         ]
     },
     {
         "Camp Name": "ELEMENTUM",
-        "Location": "E & 8:45",
+        "Location": "8:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43746/",
             "https://playaevents.burningman.org/2023/playa_event/43757/",
@@ -2854,7 +2854,7 @@
     },
     {
         "Camp Name": "Earth Guardians",
-        "Location": "Rod's Ring Road @ 2:30",
+        "Location": "2:30 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41729/",
             "https://playaevents.burningman.org/2023/playa_event/41750/",
@@ -2883,7 +2883,7 @@
     },
     {
         "Camp Name": "Electric Cheese Land",
-        "Location": "B & 9:45",
+        "Location": "9:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43334/",
             "https://playaevents.burningman.org/2023/playa_event/43335/"
@@ -2931,7 +2931,7 @@
     },
     {
         "Camp Name": "Enchanted Booty Forest",
-        "Location": "E & 8:15",
+        "Location": "8:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41188/",
             "https://playaevents.burningman.org/2023/playa_event/41020/",
@@ -3007,7 +3007,7 @@
     },
     {
         "Camp Name": "F.U.Ego Stage Bar & Lounge",
-        "Location": "7:30 B Plaza",
+        "Location": "7:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41565/"
         ]
@@ -3038,7 +3038,7 @@
     },
     {
         "Camp Name": "FUR",
-        "Location": "7:30 B Plaza",
+        "Location": "7:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43371/",
             "https://playaevents.burningman.org/2023/playa_event/41861/",
@@ -3082,14 +3082,14 @@
     },
     {
         "Camp Name": "Fauxliage",
-        "Location": "F & 9:45",
+        "Location": "9:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43011/"
         ]
     },
     {
         "Camp Name": "Favela",
-        "Location": "H & 9:15",
+        "Location": "9:15 & H",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43155/"
         ]
@@ -3112,7 +3112,7 @@
     },
     {
         "Camp Name": "Fermented Reality",
-        "Location": "F & 7:15",
+        "Location": "7:15 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44745/",
             "https://playaevents.burningman.org/2023/playa_event/44750/",
@@ -3205,7 +3205,7 @@
     },
     {
         "Camp Name": "FreeStyle Palace",
-        "Location": "Esplanade & 8:00",
+        "Location": "8:00 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43042/",
             "https://playaevents.burningman.org/2023/playa_event/42095/",
@@ -3230,7 +3230,7 @@
     },
     {
         "Camp Name": "Fresh Squeezed!",
-        "Location": "4:30 G Plaza",
+        "Location": "4:30 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42506/"
         ]
@@ -3253,7 +3253,7 @@
     },
     {
         "Camp Name": "Frogma",
-        "Location": "G & 4:15",
+        "Location": "4:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41107/",
             "https://playaevents.burningman.org/2023/playa_event/41047/"
@@ -3261,7 +3261,7 @@
     },
     {
         "Camp Name": "Frothville",
-        "Location": "Esplanade & 9:45",
+        "Location": "9:45 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44475/",
             "https://playaevents.burningman.org/2023/playa_event/44361/",
@@ -3273,7 +3273,7 @@
     },
     {
         "Camp Name": "Frozen Oasis",
-        "Location": "E & 4:15",
+        "Location": "4:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43155/",
             "https://playaevents.burningman.org/2023/playa_event/43393/"
@@ -3333,7 +3333,7 @@
     },
     {
         "Camp Name": "Gallavant",
-        "Location": "3:00 B Plaza",
+        "Location": "3:00 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42029/",
             "https://playaevents.burningman.org/2023/playa_event/42041/",
@@ -3397,14 +3397,14 @@
     },
     {
         "Camp Name": "Give It A Shot! Vaccination Camp",
-        "Location": "B & 4:45",
+        "Location": "4:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41035/"
         ]
     },
     {
         "Camp Name": "Global Village",
-        "Location": "E & 6:45",
+        "Location": "6:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45157/",
             "https://playaevents.burningman.org/2023/playa_event/44923/"
@@ -3452,7 +3452,7 @@
     },
     {
         "Camp Name": "Good Question",
-        "Location": "C & 6:45",
+        "Location": "6:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43048/",
             "https://playaevents.burningman.org/2023/playa_event/43058/",
@@ -3461,7 +3461,7 @@
     },
     {
         "Camp Name": "Got Your Back",
-        "Location": "C & 9:15",
+        "Location": "9:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44803/"
         ]
@@ -3484,7 +3484,7 @@
     },
     {
         "Camp Name": "Grilled Cheese Experiment",
-        "Location": "C & 3:45",
+        "Location": "3:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45012/",
             "https://playaevents.burningman.org/2023/playa_event/45010/",
@@ -3519,7 +3519,7 @@
     },
     {
         "Camp Name": "HARDLY",
-        "Location": "3:00 Portal",
+        "Location": "3:00 & Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42752/",
             "https://playaevents.burningman.org/2023/playa_event/42189/",
@@ -3537,7 +3537,7 @@
     },
     {
         "Camp Name": "HELLvetica",
-        "Location": "E & 3:45",
+        "Location": "3:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44928/"
         ]
@@ -3585,7 +3585,7 @@
     },
     {
         "Camp Name": "Habitat for Insanity",
-        "Location": "4:30 Portal & A",
+        "Location": "4:30 & Portal & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43996/",
             "https://playaevents.burningman.org/2023/playa_event/43127/",
@@ -3595,7 +3595,7 @@
     },
     {
         "Camp Name": "Hair of the Dog (HOTD)",
-        "Location": "Rod's Ring Road @ 4:15",
+        "Location": "4:15 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43852/"
         ]
@@ -3890,7 +3890,7 @@
     },
     {
         "Camp Name": "Houlie",
-        "Location": "B & 9:15",
+        "Location": "9:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41490/",
             "https://playaevents.burningman.org/2023/playa_event/41446/"
@@ -3906,7 +3906,7 @@
     },
     {
         "Camp Name": "Hour Kava",
-        "Location": "6:00 G Plaza",
+        "Location": "6:00 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45262/",
             "https://playaevents.burningman.org/2023/playa_event/45261/",
@@ -3947,7 +3947,7 @@
     },
     {
         "Camp Name": "Hushville",
-        "Location": "E & 5:15",
+        "Location": "5:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42092/",
             "https://playaevents.burningman.org/2023/playa_event/44542/",
@@ -4018,7 +4018,7 @@
     },
     {
         "Camp Name": "IGNITED STATES",
-        "Location": "B & 8:45",
+        "Location": "8:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41774/",
             "https://playaevents.burningman.org/2023/playa_event/41738/",
@@ -4036,7 +4036,7 @@
     },
     {
         "Camp Name": "IPOW-Indigenous People of World",
-        "Location": "C & 4:45",
+        "Location": "4:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42156/",
             "https://playaevents.burningman.org/2023/playa_event/42162/",
@@ -4054,7 +4054,7 @@
     },
     {
         "Camp Name": "Illumination Village",
-        "Location": "Esplanade & 3:00 Portal",
+        "Location": "3:00 & Esplanade &  Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42644/",
             "https://playaevents.burningman.org/2023/playa_event/44458/",
@@ -4073,7 +4073,7 @@
     },
     {
         "Camp Name": "Imperfection at Priscilla",
-        "Location": "G & 7:15",
+        "Location": "7:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45244/"
         ]
@@ -4116,7 +4116,7 @@
     },
     {
         "Camp Name": "Inflatable Wildlife",
-        "Location": "D & 7:45",
+        "Location": "7:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41541/",
             "https://playaevents.burningman.org/2023/playa_event/41621/",
@@ -4186,7 +4186,7 @@
     },
     {
         "Camp Name": "Jipangu",
-        "Location": "Center Camp Plaza @ 10:00",
+        "Location": "10:00 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42521/",
             "https://playaevents.burningman.org/2023/playa_event/42533/"
@@ -4201,7 +4201,7 @@
     },
     {
         "Camp Name": "Joyful Dragon Circus",
-        "Location": "B & 6:45",
+        "Location": "6:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44078/"
         ]
@@ -4278,7 +4278,7 @@
     },
     {
         "Camp Name": "Kamp Suckie Fuckaye",
-        "Location": "Esplanade & 4:30 Portal",
+        "Location": "4:30 & Esplanade &  Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43720/",
             "https://playaevents.burningman.org/2023/playa_event/43734/",
@@ -4288,7 +4288,7 @@
     },
     {
         "Camp Name": "Kanuckistan XIII",
-        "Location": "C & 8:45",
+        "Location": "8:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44389/",
             "https://playaevents.burningman.org/2023/playa_event/44270/"
@@ -4320,7 +4320,7 @@
     },
     {
         "Camp Name": "Kelly's",
-        "Location": "C & 4:15",
+        "Location": "4:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41432/",
             "https://playaevents.burningman.org/2023/playa_event/41299/"
@@ -4328,7 +4328,7 @@
     },
     {
         "Camp Name": "Kentucky Fried Camp",
-        "Location": "Center Camp Plaza @ 5:00",
+        "Location": "5:00 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43401/",
             "https://playaevents.burningman.org/2023/playa_event/44842/",
@@ -4385,7 +4385,7 @@
     },
     {
         "Camp Name": "Kostume Kult",
-        "Location": "Esplanade & 6:45",
+        "Location": "6:45 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43975/",
             "https://playaevents.burningman.org/2023/playa_event/43966/"
@@ -4402,7 +4402,7 @@
     },
     {
         "Camp Name": "Kurenivka",
-        "Location": "F & 9:45",
+        "Location": "9:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41911/",
             "https://playaevents.burningman.org/2023/playa_event/41884/"
@@ -4410,7 +4410,7 @@
     },
     {
         "Camp Name": "LAFer Camp",
-        "Location": "E & 6:15",
+        "Location": "6:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42774/",
             "https://playaevents.burningman.org/2023/playa_event/42839/",
@@ -4442,7 +4442,7 @@
     },
     {
         "Camp Name": "La Palma Borracha",
-        "Location": "B & 3:15",
+        "Location": "3:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43848/"
         ]
@@ -4507,14 +4507,14 @@
     },
     {
         "Camp Name": "Lit AF",
-        "Location": "G & 4:15",
+        "Location": "4:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41159/"
         ]
     },
     {
         "Camp Name": "Lituanica Birds",
-        "Location": "6:00 G Plaza",
+        "Location": "6:00 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41410/",
             "https://playaevents.burningman.org/2023/playa_event/41503/",
@@ -4549,7 +4549,7 @@
     },
     {
         "Camp Name": "Lovin' Oven",
-        "Location": "Center Camp Plaza @ 4:00",
+        "Location": "4:00 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43573/"
         ]
@@ -4667,7 +4667,7 @@
     },
     {
         "Camp Name": "MOSAIC",
-        "Location": "I & 4:15",
+        "Location": "4:15 & I",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43108/",
             "https://playaevents.burningman.org/2023/playa_event/42633/"
@@ -4705,21 +4705,21 @@
     },
     {
         "Camp Name": "MUSE Caf\u00e9",
-        "Location": "E & 4:45",
+        "Location": "4:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44924/"
         ]
     },
     {
         "Camp Name": "MacGyvers' Union",
-        "Location": "B & 7:15",
+        "Location": "7:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41003/"
         ]
     },
     {
         "Camp Name": "Mad Tea(se) Party",
-        "Location": "7:30 B Plaza",
+        "Location": "7:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43150/",
             "https://playaevents.burningman.org/2023/playa_event/43152/"
@@ -4761,7 +4761,7 @@
         ]
     },
     {
-        "Camp Name": "Math Camp @ Group W",
+        "Camp Name": "Math Camp Group W",
         "Location": "3:00 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44554/",
@@ -4879,7 +4879,7 @@
     },
     {
         "Camp Name": "MindShark",
-        "Location": "Esplanade & 8:00",
+        "Location": "8:00 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41924/",
             "https://playaevents.burningman.org/2023/playa_event/41921/"
@@ -4894,7 +4894,7 @@
     },
     {
         "Camp Name": "Minimal Chaos",
-        "Location": "F & 5:45",
+        "Location": "5:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42937/",
             "https://playaevents.burningman.org/2023/playa_event/44840/"
@@ -4902,7 +4902,7 @@
     },
     {
         "Camp Name": "Mo' Better Village",
-        "Location": "F & 5:45",
+        "Location": "5:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44574/",
             "https://playaevents.burningman.org/2023/playa_event/44570/"
@@ -4910,7 +4910,7 @@
     },
     {
         "Camp Name": "Mobility Camp",
-        "Location": "Center Camp Plaza @ 1:45",
+        "Location": "1:45 & Center Camp Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41415/",
             "https://playaevents.burningman.org/2023/playa_event/41445/",
@@ -5006,7 +5006,7 @@
     },
     {
         "Camp Name": "MythMaker",
-        "Location": "F & 6:45",
+        "Location": "6:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44657/",
             "https://playaevents.burningman.org/2023/playa_event/43395/",
@@ -5052,14 +5052,14 @@
     },
     {
         "Camp Name": "Neodebauchery",
-        "Location": "B & 4:15",
+        "Location": "4:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42470/"
         ]
     },
     {
         "Camp Name": "Neon Amanita",
-        "Location": "E & 4:15",
+        "Location": "4:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44887/"
         ]
@@ -5130,7 +5130,7 @@
     },
     {
         "Camp Name": "No ReGretzkys",
-        "Location": "9:00 Portal & A",
+        "Location": "9:00 & Portal & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42966/",
             "https://playaevents.burningman.org/2023/playa_event/43003/",
@@ -5176,7 +5176,7 @@
     },
     {
         "Camp Name": "Northwest Mist",
-        "Location": "Esplanade & 4:00",
+        "Location": "4:00 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44098/"
         ]
@@ -5210,7 +5210,7 @@
     },
     {
         "Camp Name": "Nuclear Dandelion",
-        "Location": "A & 7:45",
+        "Location": "7:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41056/"
         ]
@@ -5282,7 +5282,7 @@
     },
     {
         "Camp Name": "Once Upon A Teatime",
-        "Location": "G & 4:45",
+        "Location": "4:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45124/",
             "https://playaevents.burningman.org/2023/playa_event/45126/"
@@ -5305,7 +5305,7 @@
     },
     {
         "Camp Name": "Orphan Asylum",
-        "Location": "C & 2:15",
+        "Location": "2:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41915/",
             "https://playaevents.burningman.org/2023/playa_event/41874/",
@@ -5341,7 +5341,7 @@
     },
     {
         "Camp Name": "Pablo's Breakfast Cantina & Spa",
-        "Location": "B & 8:45",
+        "Location": "8:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44883/"
         ]
@@ -5356,14 +5356,14 @@
     },
     {
         "Camp Name": "Paper Cranes",
-        "Location": "D & 8:15",
+        "Location": "8:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42191/"
         ]
     },
     {
         "Camp Name": "Parks and Wrecked!",
-        "Location": "E & 7:45",
+        "Location": "7:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43456/"
         ]
@@ -5447,21 +5447,21 @@
     },
     {
         "Camp Name": "PhoCureBurn",
-        "Location": "A & 4:45",
+        "Location": "4:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43608/"
         ]
     },
     {
         "Camp Name": "PickleBack Mountain",
-        "Location": "D & 8:45",
+        "Location": "8:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43430/"
         ]
     },
     {
         "Camp Name": "Pickled Beats",
-        "Location": "B & 8:15",
+        "Location": "8:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43180/"
         ]
@@ -5475,7 +5475,7 @@
     },
     {
         "Camp Name": "Pinhole Project",
-        "Location": "B & 2:45",
+        "Location": "2:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43352/",
             "https://playaevents.burningman.org/2023/playa_event/43345/"
@@ -5491,7 +5491,7 @@
     },
     {
         "Camp Name": "Pink Lightning",
-        "Location": "D & 7:45",
+        "Location": "7:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41303/",
             "https://playaevents.burningman.org/2023/playa_event/41226/",
@@ -5579,14 +5579,14 @@
     },
     {
         "Camp Name": "Playa Bears",
-        "Location": "C & 4:15",
+        "Location": "4:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44512/"
         ]
     },
     {
         "Camp Name": "Playa Choir",
-        "Location": "Rod's Ring Road @ 3:00",
+        "Location": "3:00 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43402/",
             "https://playaevents.burningman.org/2023/playa_event/44645/"
@@ -5684,7 +5684,7 @@
     },
     {
         "Camp Name": "Plunderground",
-        "Location": "Rod's Ring Road @ 2:00",
+        "Location": "2:00 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43663/",
             "https://playaevents.burningman.org/2023/playa_event/43670/"
@@ -5692,7 +5692,7 @@
     },
     {
         "Camp Name": "PolyParadise",
-        "Location": "E & 8:15",
+        "Location": "8:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42708/",
             "https://playaevents.burningman.org/2023/playa_event/42703/",
@@ -5704,7 +5704,7 @@
     },
     {
         "Camp Name": "PolyParadise",
-        "Location": "E & 8:15",
+        "Location": "8:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42708/",
             "https://playaevents.burningman.org/2023/playa_event/42703/",
@@ -5716,7 +5716,7 @@
     },
     {
         "Camp Name": "Polyhedra",
-        "Location": "G & 7:15",
+        "Location": "7:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42072/",
             "https://playaevents.burningman.org/2023/playa_event/42074/",
@@ -5726,7 +5726,7 @@
     },
     {
         "Camp Name": "Pookah Lounge/SNAFUBAR/X-Pats",
-        "Location": "E & 7:45",
+        "Location": "7:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43961/"
         ]
@@ -5799,7 +5799,7 @@
     },
     {
         "Camp Name": "Prometheatrics",
-        "Location": "Esplanade & 8:30",
+        "Location": "8:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44395/",
             "https://playaevents.burningman.org/2023/playa_event/44409/"
@@ -5823,7 +5823,7 @@
     },
     {
         "Camp Name": "Quarks and Recreation",
-        "Location": "E & 7:45",
+        "Location": "7:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41559/"
         ]
@@ -5863,7 +5863,7 @@
     },
     {
         "Camp Name": "RIPPLE",
-        "Location": "B & 4:15",
+        "Location": "4:15 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43084/"
         ]
@@ -5930,7 +5930,7 @@
     },
     {
         "Camp Name": "Red Nose District",
-        "Location": "Esplanade & 2:15",
+        "Location": "2:15 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42978/",
             "https://playaevents.burningman.org/2023/playa_event/41955/",
@@ -5963,7 +5963,7 @@
     },
     {
         "Camp Name": "Redhanded",
-        "Location": "D & 8:45",
+        "Location": "8:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44251/",
             "https://playaevents.burningman.org/2023/playa_event/44246/"
@@ -5978,7 +5978,7 @@
     },
     {
         "Camp Name": "Regis",
-        "Location": "D & 3:45",
+        "Location": "3:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44390/",
             "https://playaevents.burningman.org/2023/playa_event/41324/",
@@ -5994,7 +5994,7 @@
     },
     {
         "Camp Name": "Religious As Fuck",
-        "Location": "E & 2:45",
+        "Location": "2:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43546/",
             "https://playaevents.burningman.org/2023/playa_event/43434/",
@@ -6032,7 +6032,7 @@
     },
     {
         "Camp Name": "Retire-Bees",
-        "Location": "Esplanade & 3:30",
+        "Location": "3:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43877/",
             "https://playaevents.burningman.org/2023/playa_event/43857/",
@@ -6058,7 +6058,7 @@
     },
     {
         "Camp Name": "Reverbia",
-        "Location": "Esplanade & 3:45",
+        "Location": "3:45 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41568/",
             "https://playaevents.burningman.org/2023/playa_event/41644/",
@@ -6095,7 +6095,7 @@
     },
     {
         "Camp Name": "Ride I-Ching,-Ride",
-        "Location": "Rod's Ring Road @ 9:00",
+        "Location": "9:00 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43008/"
         ]
@@ -6110,7 +6110,7 @@
     },
     {
         "Camp Name": "Rogue Nation Village",
-        "Location": "6:00 G Plaza",
+        "Location": "6:00 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45212/"
         ]
@@ -6141,7 +6141,7 @@
     },
     {
         "Camp Name": "Royal Honey",
-        "Location": "C & 8:45",
+        "Location": "8:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43513/"
         ]
@@ -6168,7 +6168,7 @@
     },
     {
         "Camp Name": "Run Free Camp",
-        "Location": "G & 6:45",
+        "Location": "6:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41433/",
             "https://playaevents.burningman.org/2023/playa_event/41390/",
@@ -6211,7 +6211,7 @@
     },
     {
         "Camp Name": "SUPERNOVA",
-        "Location": "Rod's Ring Road @ 3:45",
+        "Location": "3:45 & Rod's Ring Road",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44832/",
             "https://playaevents.burningman.org/2023/playa_event/43255/"
@@ -6282,7 +6282,7 @@
     },
     {
         "Camp Name": "Santo Cabron",
-        "Location": "D & 3:15",
+        "Location": "3:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42442/",
             "https://playaevents.burningman.org/2023/playa_event/42440/"
@@ -6369,7 +6369,7 @@
     },
     {
         "Camp Name": "SexyAF",
-        "Location": "D & 4:45",
+        "Location": "4:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43920/",
             "https://playaevents.burningman.org/2023/playa_event/44118/",
@@ -6382,7 +6382,7 @@
     },
     {
         "Camp Name": "ShamanDome",
-        "Location": "F & 8:15",
+        "Location": "8:15 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42174/",
             "https://playaevents.burningman.org/2023/playa_event/41255/",
@@ -6408,7 +6408,7 @@
     },
     {
         "Camp Name": "Shenanigans",
-        "Location": "D & 4:45",
+        "Location": "4:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44757/",
             "https://playaevents.burningman.org/2023/playa_event/43964/",
@@ -6434,7 +6434,7 @@
     },
     {
         "Camp Name": "Shipwreck Tiki Lounge",
-        "Location": "3:00 B Plaza",
+        "Location": "3:00 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42725/"
         ]
@@ -6448,7 +6448,7 @@
     },
     {
         "Camp Name": "Silver City",
-        "Location": "E & 4:15",
+        "Location": "4:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44936/",
             "https://playaevents.burningman.org/2023/playa_event/44937/",
@@ -6503,7 +6503,7 @@
     },
     {
         "Camp Name": "Slushious",
-        "Location": "7:30 G Plaza",
+        "Location": "7:30 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44882/",
             "https://playaevents.burningman.org/2023/playa_event/44871/"
@@ -6511,7 +6511,7 @@
     },
     {
         "Camp Name": "Snow Cone Zone",
-        "Location": "A & 6:15",
+        "Location": "6:15 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42088/",
             "https://playaevents.burningman.org/2023/playa_event/42090/"
@@ -6519,7 +6519,7 @@
     },
     {
         "Camp Name": "Society for Temporal Preservation",
-        "Location": "6:00 G Plaza",
+        "Location": "6:00 & G Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41061/"
         ]
@@ -6566,7 +6566,7 @@
     },
     {
         "Camp Name": "Soon to be Infamous",
-        "Location": "A & 8:45",
+        "Location": "8:45 & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45119/"
         ]
@@ -6637,7 +6637,7 @@
     },
     {
         "Camp Name": "Space Racers",
-        "Location": "C & 7:15",
+        "Location": "7:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42998/"
         ]
@@ -6651,7 +6651,7 @@
     },
     {
         "Camp Name": "Spaghetti Taco Camp",
-        "Location": "D & 9:45",
+        "Location": "9:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44899/",
             "https://playaevents.burningman.org/2023/playa_event/44900/",
@@ -6687,7 +6687,7 @@
     },
     {
         "Camp Name": "Spice N Vice",
-        "Location": "F & 3:45",
+        "Location": "3:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42702/"
         ]
@@ -6711,7 +6711,7 @@
     },
     {
         "Camp Name": "Square One",
-        "Location": "F & 3:45",
+        "Location": "3:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41828/",
             "https://playaevents.burningman.org/2023/playa_event/42422/",
@@ -6726,14 +6726,14 @@
     },
     {
         "Camp Name": "Square Zer|o|",
-        "Location": "D & 3:45",
+        "Location": "3:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43136/"
         ]
     },
     {
         "Camp Name": "Stag Camp",
-        "Location": "C & 8:15",
+        "Location": "8:15 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44826/",
             "https://playaevents.burningman.org/2023/playa_event/44822/",
@@ -6764,7 +6764,7 @@
     },
     {
         "Camp Name": "StarFist",
-        "Location": "G & 5:15",
+        "Location": "5:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43539/",
             "https://playaevents.burningman.org/2023/playa_event/43534/",
@@ -6905,7 +6905,7 @@
     },
     {
         "Camp Name": "TBD Camp",
-        "Location": "G & 8:45",
+        "Location": "8:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43343/"
         ]
@@ -6942,7 +6942,7 @@
     },
     {
         "Camp Name": "Tarwater",
-        "Location": "G & 5:45",
+        "Location": "5:45 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44819/"
         ]
@@ -6993,7 +6993,7 @@
     },
     {
         "Camp Name": "Temple Guardians",
-        "Location": "Esplanade & 5:30",
+        "Location": "5:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43777/",
             "https://playaevents.burningman.org/2023/playa_event/44790/"
@@ -7001,7 +7001,7 @@
     },
     {
         "Camp Name": "Temple of Bacchus",
-        "Location": "E & 8:15",
+        "Location": "8:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42722/"
         ]
@@ -7015,7 +7015,7 @@
     },
     {
         "Camp Name": "The 69th Precinct",
-        "Location": "9:00 Public Plaza @ 1:45",
+        "Location": "9:00 & Public Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42802/",
             "https://playaevents.burningman.org/2023/playa_event/42826/"
@@ -7061,7 +7061,7 @@
     },
     {
         "Camp Name": "The Dusty Nuts Tavern",
-        "Location": "F & 2:45",
+        "Location": "2:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42415/"
         ]
@@ -7100,7 +7100,7 @@
     },
     {
         "Camp Name": "The Lost Penguins",
-        "Location": "Esplanade & 3:30",
+        "Location": "3:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42226/",
             "https://playaevents.burningman.org/2023/playa_event/45165/",
@@ -7112,7 +7112,7 @@
     },
     {
         "Camp Name": "The Okay Hole",
-        "Location": "F & 8:45",
+        "Location": "8:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41277/",
             "https://playaevents.burningman.org/2023/playa_event/41156/"
@@ -7120,7 +7120,7 @@
     },
     {
         "Camp Name": "The Parliament",
-        "Location": "3:00 Portal",
+        "Location": "3:00 & Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41251/"
         ]
@@ -7134,7 +7134,7 @@
     },
     {
         "Camp Name": "The Phage",
-        "Location": "4:30 B Plaza",
+        "Location": "4:30 & B Plaza",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44564/",
             "https://playaevents.burningman.org/2023/playa_event/44559/"
@@ -7172,7 +7172,7 @@
     },
     {
         "Camp Name": "The Royals",
-        "Location": "F & 3:45",
+        "Location": "3:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44815/",
             "https://playaevents.burningman.org/2023/playa_event/44786/",
@@ -7192,7 +7192,7 @@
     },
     {
         "Camp Name": "The Shire",
-        "Location": "C & 4:45",
+        "Location": "4:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41037/",
             "https://playaevents.burningman.org/2023/playa_event/41106/",
@@ -7201,7 +7201,7 @@
     },
     {
         "Camp Name": "The Shrimp Ranch",
-        "Location": "D & 5:15",
+        "Location": "5:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43733/"
         ]
@@ -7236,7 +7236,7 @@
     },
     {
         "Camp Name": "The Wastelanders",
-        "Location": "3:00 Portal & A",
+        "Location": "3:00 & Portal & A",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42486/",
             "https://playaevents.burningman.org/2023/playa_event/42488/"
@@ -7260,7 +7260,7 @@
     },
     {
         "Camp Name": "Thump Drippins",
-        "Location": "D & 2:45",
+        "Location": "2:45 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44358/",
             "https://playaevents.burningman.org/2023/playa_event/44343/"
@@ -7331,7 +7331,7 @@
     },
     {
         "Camp Name": "Twisted Swan Celtic pub",
-        "Location": "E & 8:15",
+        "Location": "8:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42719/",
             "https://playaevents.burningman.org/2023/playa_event/42717/",
@@ -7363,7 +7363,7 @@
     },
     {
         "Camp Name": "Ultimate Celebration",
-        "Location": "D & 3:15",
+        "Location": "3:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43798/",
             "https://playaevents.burningman.org/2023/playa_event/43787/",
@@ -7407,7 +7407,7 @@
     },
     {
         "Camp Name": "VW Bus Camp and Leopard Lounge",
-        "Location": "D & 4:15",
+        "Location": "4:15 & D",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45181/"
         ]
@@ -7439,7 +7439,7 @@
     },
     {
         "Camp Name": "Videogasm",
-        "Location": "Esplanade & 7:45",
+        "Location": "7:45 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/42240/",
             "https://playaevents.burningman.org/2023/playa_event/42364/",
@@ -7464,7 +7464,7 @@
     },
     {
         "Camp Name": "Viking Bar!",
-        "Location": "B & 3:45",
+        "Location": "3:45 & B",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/45259/",
             "https://playaevents.burningman.org/2023/playa_event/45258/",
@@ -7473,7 +7473,7 @@
     },
     {
         "Camp Name": "Vines Without Borders",
-        "Location": "C & 4:45",
+        "Location": "4:45 & C",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41999/",
             "https://playaevents.burningman.org/2023/playa_event/42086/"
@@ -7507,7 +7507,7 @@
     },
     {
         "Camp Name": "WanderDust",
-        "Location": "Esplanade & 2:30",
+        "Location": "2:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44471/"
         ]
@@ -7553,7 +7553,7 @@
     },
     {
         "Camp Name": "White Trash Superstars (WTS)",
-        "Location": "Esplanade & 2:30",
+        "Location": "2:30 & Esplanade",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44437/",
             "https://playaevents.burningman.org/2023/playa_event/44452/"
@@ -7561,7 +7561,7 @@
     },
     {
         "Camp Name": "Whores Smores",
-        "Location": "Esplanade & 3:00 Portal",
+        "Location": "3:00 & Esplanade &  Portal",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44513/"
         ]
@@ -7582,7 +7582,7 @@
     },
     {
         "Camp Name": "Wonky Colours",
-        "Location": "E & 9:45",
+        "Location": "9:45 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44373/"
         ]
@@ -7636,7 +7636,7 @@
     },
     {
         "Camp Name": "Yea Harmony",
-        "Location": "G & 2:15",
+        "Location": "2:15 & G",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/44857/"
         ]
@@ -7659,7 +7659,7 @@
     },
     {
         "Camp Name": "Yes Please",
-        "Location": "E & 7:15",
+        "Location": "7:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43660/",
             "https://playaevents.burningman.org/2023/playa_event/43666/",
@@ -7718,7 +7718,7 @@
     },
     {
         "Camp Name": "badlands",
-        "Location": "E & 9:15",
+        "Location": "9:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43480/",
             "https://playaevents.burningman.org/2023/playa_event/43488/"
@@ -7734,7 +7734,7 @@
     },
     {
         "Camp Name": "fruitPOP",
-        "Location": "E & 7:15",
+        "Location": "7:15 & E",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/41053/",
             "https://playaevents.burningman.org/2023/playa_event/41000/",
@@ -7752,7 +7752,7 @@
     },
     {
         "Camp Name": "pandemonium",
-        "Location": "F & 3:45",
+        "Location": "3:45 & F",
         "Events": [
             "https://playaevents.burningman.org/2023/playa_event/43626/",
             "https://playaevents.burningman.org/2023/playa_event/43605/",
