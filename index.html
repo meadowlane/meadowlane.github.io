@@ -46,10 +46,12 @@
 
     <div id="events" class="mt-4"></div>
 </div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+
 <script>
-    let data = [];
+let data = [];
 
 async function loadData() {
     const response = await fetch('./updated_camp_detail_found.json');
@@ -61,7 +63,6 @@ function populateDropdowns() {
     let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
     let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
 
-    // Sort locations by time
     uniqueLocations = uniqueLocations.sort((a, b) => {
         const timeA = a.split(' and ')[0];
         const timeB = b.split(' and ')[0];
@@ -95,8 +96,12 @@ function populateDropdowns() {
         });
         searchEvents();
     }).on('select2:unselect', function () {
+        $("#campNameSelect").empty().select2({
+            theme: 'bootstrap',
+            placeholder: 'Select or type a camp name',
+            data: uniqueCampNames
+        }).val(null).trigger('change'); // Reset the selected value to null
         $("#locationSelect").val(null).trigger('change');
-        searchEvents();
     });
 
     $("#campNameSelect").val(null).trigger('change');
@@ -111,6 +116,7 @@ function searchEvents() {
         (!selectedCamp || camp["Camp Name"] === selectedCamp) &&
         (!selectedLocation || camp["Location"] === selectedLocation)
     );
+
     displayEvents(filteredEvents);
 }
 
