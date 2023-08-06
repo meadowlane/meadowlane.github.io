@@ -113,21 +113,28 @@ function searchEvents() {
     );
     displayEvents(filteredEvents);
 }
-function displayEvents(events) {
+function displayEvents(camps) {
     const eventsDiv = document.getElementById('events');
     eventsDiv.innerHTML = '';
-    events.forEach(event => {
-        eventsDiv.innerHTML += `
-            <div class="card mt-2">
-                <div class="card-body">
-                    <h5 class="card-title">${event["Camp Name"]}</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">${event["Location"]}</h6>
-                    ${event["Events"].map(url => `<a href="${url}" target="_blank">${url}</a><br>`).join('')}
+    camps.forEach(camp => {
+        camp["Events"].forEach(event => {
+            eventsDiv.innerHTML += `
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <h5 class="card-title">${event["Event Name"]}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">${event["Date and Time"] || ''}</h6>
+                        <p>Type: ${event["Type"] || 'N/A'}</p>
+                        <p>Located at Camp: ${event["Located at Camp"] || 'N/A'}</p>
+                        <p>Location: ${event["Location"] || 'N/A'}</p>
+                        <p>Description: ${event["Description"] || 'N/A'}</p>
+                        <a href="${event["Full Details"]}" target="_blank">Full Details</a>
+                    </div>
                 </div>
-            </div>
-        `;
+            `;
+        });
     });
 }
+
 
 $(document).ready(function () {
     loadData();
