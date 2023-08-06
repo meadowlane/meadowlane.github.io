@@ -121,12 +121,13 @@ function displayEvents(camps) {
             eventsDiv.innerHTML += `
                 <div class="card mt-2">
                     <div class="card-body">
-                        <h5 class="card-title">${event["Event Name"]}</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">${event["Date and Time"] || ''}</h6>
-                        <p>Type: ${event["Type"] || 'N/A'}</p>
-                        <p>Located at Camp: ${event["Located at Camp"] || 'N/A'}</p>
-                        <p>Location: ${event["Location"] || 'N/A'}</p>
-                        <p>Description: ${event["Description"] || 'N/A'}</p>
+                        <h4 class="card-title">${event["Event Name"]}</h5>
+                        <h6 class="card-subtitle mb-2">Dates and Times:</h6>
+                        <p>${event["Date and Time"].join('<br>')}</p>
+                        <p>Type: ${event["Type"]}</p>
+                        <p>Located at Camp: ${event["Located at Camp"]}</p>
+                        <p>Location: ${event["Location"]}</p>
+                        <p>Description: ${event["Description"]}</p>
                         <a href="${event["Full Details"]}" target="_blank">Full Details</a>
                     </div>
                 </div>
