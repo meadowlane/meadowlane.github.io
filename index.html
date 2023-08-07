@@ -27,22 +27,28 @@
 </head>
 
 <body>
+<header>
+        <a href="index_old.html" class="btn btn-sm btn-outline-secondary" style="color: gray; font-size: 12px;">Click For V1</a>
+</header>
 <div class="container">
     <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
         <h1 class="mb-3 mb-md-0">Burning Man Events</h1>
     </div>
 
     <div class="row mt-4">
-        <div class="col-12 col-md-6 mb-3 mb-md-0">
+        <div class="col-12 col-md-4 mb-3 mb-md-0">
             <label>Camp Name</label>
             <select class="form-control search-input" id="campNameSelect"></select>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-4 mb-3 mb-md-0">
             <label>Location</label>
             <select class="form-control search-input" id="locationSelect"></select>
         </div>
+        <div class="col-12 col-md-4">
+            <label>Date</label>
+            <select class="form-control search-input" id="dateSelect"></select>
+        </div>
     </div>
-
 
     <div id="events" class="mt-4"></div>
 </div>
@@ -59,95 +65,92 @@ async function loadData() {
     populateDropdowns();
 }
 
-function populateDropdowns() {
-    let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
-    let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
+    function populateDropdowns() {
+        let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
+        let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
+        let uniqueDates = [...new Set(data.flatMap(item => item["Events"].flatMap(event => event["Dates"].map(date => date["date"]))))];
 
-    uniqueLocations = uniqueLocations.sort((a, b) => {
-        const timeA = a.split(' and ')[0];
-        const timeB = b.split(' and ')[0];
-        return timeA.localeCompare(timeB, undefined, {numeric: true, hour12: false});
-    });
+        populateDropdown('#campNameSelect', uniqueCampNames, 'Select or type a camp name');
+        populateDropdown('#locationSelect', uniqueLocations, 'Select or type a location');
+        populateDropdown('#dateSelect', uniqueDates, 'Select or type a date');
+    }
 
-    $("#campNameSelect").select2({
-        theme: 'bootstrap',
-        allowClear: true,
-        placeholder: 'Select or type a camp name',
-        data: uniqueCampNames
-    }).on('select2:select', function () {
-        const selectedLocation = data.find(camp => camp["Camp Name"] === $(this).val())["Location"];
-        $("#locationSelect").val(selectedLocation).trigger('change');
-        searchEvents();
-    }).on('select2:unselect', function () {
-        $("#campNameSelect").val(null).trigger('change');
-        searchEvents();
-    });
+    function populateDropdown(selector, data, placeholder) {
+        const $dropdown = $(selector);
 
-    $("#locationSelect").select2({
-        theme: 'bootstrap',
-        allowClear: true,
-        placeholder: 'Select or type a location',
-        data: uniqueLocations
-    }).on('select2:select', function () {
-        const campsAtLocation = data.filter(camp => camp["Location"] === $(this).val()).map(camp => camp["Camp Name"]);
-        $("#campNameSelect").empty().select2({
-            theme: 'bootstrap',
-            data: campsAtLocation
+        $dropdown.append(new Option('', '', false, false));
+
+        data.forEach(item => {
+            $dropdown.append(new Option(item, item, false, false));
         });
-        searchEvents();
-    }).on('select2:unselect', function () {
-        $("#campNameSelect").empty().select2({
-            theme: 'bootstrap',
-            placeholder: 'Select or type a camp name',
-            data: uniqueCampNames
-        }).val(null).trigger('change'); // Reset the selected value to null
-        $("#locationSelect").val(null).trigger('change');
-    });
 
-    $("#campNameSelect").val(null).trigger('change');
-    $("#locationSelect").val(null).trigger('change');
-}
+        $dropdown.select2({
+            theme: 'bootstrap',
+            allowClear: true,
+            placeholder: placeholder,
+        }).on('change', debounce(searchEvents, 300));
+    }
+
+    function debounce(func, delay) {
+        let debounceTimer;
+        return function() {
+            const context = this;
+            const args = arguments;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => func.apply(context, args), delay);
+        };
+    }
+
 
 function searchEvents() {
     const selectedCamp = $("#campNameSelect").val();
     const selectedLocation = $("#locationSelect").val();
+    const selectedDate = $("#dateSelect").val();
 
     let filteredEvents = data.filter(camp =>
         (!selectedCamp || camp["Camp Name"] === selectedCamp) &&
         (!selectedLocation || camp["Location"] === selectedLocation)
-    );
+    ).map(camp => ({
+        ...camp,
+        Events: camp["Events"].filter(event =>
+            !selectedDate || event["Dates"].some(date => date["date"] === selectedDate)
+        )
+    }));
 
     displayEvents(filteredEvents);
 }
 
-function displayEvents(camps) {
-    const eventsDiv = document.getElementById('events');
-    eventsDiv.innerHTML = '';
-    camps.forEach(camp => {
-        camp["Events"].forEach(event => {
-            eventsDiv.innerHTML += `
-                <div class="card mt-2">
-                    <div class="card-body">
-                        <h4 class="card-title">${event["Event Name"]}</h5>
-                        <h6 class="card-subtitle mb-2">Dates and Times:</h6>
-                        <p>${event["Date and Time"].join('<br>')}</p>
-                        <p>Type: ${event["Type"]}</p>
-                        <p>Located at Camp: ${event["Located at Camp"]}</p>
-                        <p>Location: ${event["Location"]}</p>
-                        <p>Description: ${event["Description"]}</p>
-                        <a href="${event["Full Details"]}" target="_blank">Full Details</a>
+    function displayEvents(camps) {
+        const eventsDiv = document.getElementById('events');
+        eventsDiv.innerHTML = '';
+        camps.forEach(camp => {
+            camp["Events"].forEach(event => {
+                eventsDiv.innerHTML += `
+                    <div class="card mt-2">
+                        <div class="card-body">
+                            <h4>Event Name: ${event["Event Name"]}</h4>
+                            <h5>Camp Name: ${camp["Camp Name"]}</h5>
+                            <h5>Location: ${camp["Location"]}</h5>
+                            <h6>Dates and Times:</h6>
+                            <p>${event["Date and Time"].join('<br>')}</p>
+                            <h6>Type:</h6>
+                            <p>${event["Type"]}</p>
+                            <h6>Located at Camp:</h6>
+                            <p>${event["Located at Camp"]}</p>
+                            <h6>Location:</h6>
+                            <p>${event["Location"]}</p>
+                            <h6>Description:</h6>
+                            <p>${event["Description"]}</p>
+                            <a href="${event["Full Details"]}" target="_blank">Full Details</a>
+                        </div>
                     </div>
-                </div>
-            `;
+                `;
+            });
         });
-    });
-}
+    }
 
-$(document).ready(function () {
-    loadData();
-});
+loadData();
 
 </script>
-
 </body>
 </html>
