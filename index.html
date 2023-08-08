@@ -55,104 +55,123 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <script>
-        let campData = [];
-        let dateData = [];
+        let data = [];
 
-        async function loadData() {
-            try {
-                const campResponse = await fetch('./updated_camp_detail_found.json');
-                campData = await campResponse.json();
+async function loadData() {
+    const response = await fetch('./updated_camp_detail_found.json');
+    data = await response.json();
+    populateDropdowns();
+}
 
-                const dateResponse = await fetch('./Events_grouped_by_date.json');
-                dateData = await dateResponse.json();
+function populateDropdowns() {
+    let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
+    let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
+    let uniqueDates = [];
 
-                populateDropdowns();
-            } catch (err) {
-                console.error("Error fetching data: ", err);
-            }
-        }
-
-        function populateDropdowns() {
-            const uniqueCampNames = [...new Set(campData.map(item => item["Camp Name"]))];
-
-            let uniqueLocations = [...new Set(campData.map(item => item["Location"]))];
-            uniqueLocations.sort((a, b) => {
-                const timeA = a.split(' ')[0];
-                const timeB = b.split(' ')[0];
-                return timeA.localeCompare(timeB, undefined, { numeric: true, hour12: false });
+    data.forEach(camp => {
+        camp["Events"].forEach(event => {
+            event["Date and Time"].forEach(date => {
+                if (!uniqueDates.includes(date.split(",")[0])) {
+                    uniqueDates.push(date.split(",")[0]);
+                }
             });
+        });
+    });
 
-            let uniqueDates = [...new Set(dateData.map(item => item["Date"]))];
-            uniqueDates.sort((a, b) => new Date(a) - new Date(b));
+    uniqueLocations.sort((a, b) => {
+        const timeA = a.split(' ')[0];
+        const timeB = b.split(' ')[0];
+        return timeA.localeCompare(timeB, undefined, {numeric: true, hour12: false});
+    });
 
-            $("#campNameSelect").select2({
-                data: uniqueCampNames,
-                theme: 'bootstrap',
-                allowClear: true,
-                placeholder: 'Select a camp name'
-            }).on('change', searchEvents);
+    $("#campNameSelect").select2({
+        theme: 'bootstrap',
+        allowClear: true,
+        placeholder: 'Select or type a camp name',
+        data: uniqueCampNames
+    }).on('select2:select', searchEvents)
+      .on('select2:unselect', searchEvents);
 
-            $("#locationSelect").select2({
-                data: uniqueLocations,
-                theme: 'bootstrap',
-                allowClear: true,
-                placeholder: 'Select a location'
-            }).on('change', searchEvents);
+    $("#locationSelect").select2({
+        theme: 'bootstrap',
+        allowClear: true,
+        placeholder: 'Select or type a location',
+        data: uniqueLocations
+    }).on('select2:select', searchEvents)
+      .on('select2:unselect', searchEvents);
 
-            $("#dateSelect").select2({
-                data: uniqueDates,
-                theme: 'bootstrap',
-                allowClear: true,
-                placeholder: 'Select a date'
-            }).on('change', searchEvents);
+    $("#dateSelect").select2({
+        theme: 'bootstrap',
+        allowClear: true,
+        placeholder: 'Select or type a date',
+        data: uniqueDates
+    }).on('select2:select', searchEvents)
+      .on('select2:unselect', searchEvents);
+}
+
+function searchEvents() {
+    const selectedCamp = $("#campNameSelect").val();
+    const selectedLocation = $("#locationSelect").val();
+    const selectedDate = $("#dateSelect").val();
+
+    let filteredCamps = data.filter(camp => {
+        const matchesCamp = !selectedCamp || camp["Camp Name"] === selectedCamp;
+        const matchesLocation = !selectedLocation || camp["Location"] === selectedLocation;
+        return matchesCamp && matchesLocation;
+    });
+
+    let filteredEventsCamps = [];
+
+    filteredCamps.forEach(camp => {
+        let eventsOnSelectedDate = camp["Events"].filter(event =>
+            !selectedDate || event["Date and Time"].some(date => date.includes(selectedDate))
+        );
+
+        if (eventsOnSelectedDate.length > 0) {
+            let campCopy = Object.assign({}, camp);
+            campCopy["Events"] = eventsOnSelectedDate;
+            filteredEventsCamps.push(campCopy);
         }
+    });
 
-        function searchEvents() {
-            const selectedCamp = $("#campNameSelect").val();
-            const selectedLocation = $("#locationSelect").val();
-            const selectedDate = $("#dateSelect").val();
+    displayEvents(filteredEventsCamps);
+}
 
-            let filteredCamps = campData.filter(camp => {
-                const matchesCamp = !selectedCamp || camp["Camp Name"] === selectedCamp;
-                const matchesLocation = !selectedLocation || camp["Location"] === selectedLocation;
-                return matchesCamp && matchesLocation;
-            });
+function displayEvents(camps) {
+    const eventsDiv = $("#events");
+    eventsDiv.empty();
 
-            if (selectedDate) {
-                filteredCamps = filteredCamps.filter(camp =>
-                    camp["Events"].some(event => event["Dates"].includes(selectedDate))
-                );
-            }
+    if (camps.length === 0) {
+        eventsDiv.append('<p>No events match the selected criteria.</p>');
+        return;
+    }
 
-            displayEvents(filteredCamps);
-        }
+    camps.forEach(camp => {
+        camp["Events"].forEach(event => {
+            eventsDiv.append(`
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <h5 class="card-title">${event["Event Name"]}</h5>
+                        <p class="card-text">
+                            Camp: ${camp["Camp Name"]}<br>
+                            Location: ${camp["Location"]}<br>
+                            Date and Time: ${event["Date and Time"].join('<br>')}<br>
+                            Type: ${event["Type"]}<br>
+                            Description: ${event["Description"]}
+                        </p>
+                        <a href="${event["Full Details"]}" class="btn btn-primary" target="_blank">Full Details</a>
+                    </div>
+                </div>
+            `);
+        });
+    });
+}
 
-        function displayEvents(camps) {
-            const eventsDiv = $("#events");
-            eventsDiv.empty();
+$(document).ready(function () {
+    loadData();
+});
 
-            camps.forEach(camp => {
-                camp["Events"].forEach(event => {
-                    eventsDiv.append(`
-                        <div class="card mt-2">
-                            <div class="card-body">
-                                <h5 class="card-title">${event["Event Name"]}</h5>
-                                <p class="card-text">
-                                    Camp: ${camp["Camp Name"]}<br>
-                                    Location: ${camp["Location"]}<br>
-                                    Date and Time: ${event["Date and Time"].join('<br>')}<br>
-                                    Type: ${event["Type"]}<br>
-                                    Description: ${event["Description"]}
-                                </p>
-                                <a href="${event["Full Details"]}" class="btn btn-primary" target="_blank">Full Details</a>
-                            </div>
-                        </div>
-                    `);
-                });
-            });
-        }
 
-        $(document).ready(loadData);
     </script>
 </body>
 
