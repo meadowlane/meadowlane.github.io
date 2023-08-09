@@ -1,41 +1,162 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burning Man Events</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link id="themeStylesheet" rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cyborg/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css"
+          rel="stylesheet"/>
     <style>
-        /* Critical inlined CSS */
-        body { font-family: 'Arial', sans-serif; padding: 20px; }
-        .container { max-width: 800px; }
-        @media (max-width: 768px) {
-            .container { max-width: 100%; }
+        body {
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
         }
-        /* ... any other critical styles you determine ... */
+        .container {
+            max-width: 800px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                max-width: 100%;
+            }
+        }
+
+
+
     </style>
-    <!-- Load non-critical CSS asynchronously -->
-    <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cyborg/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <!-- Optional: Add fallback for browsers that don’t support the onload attribute -->
-    <noscript>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cyborg/bootstrap.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css">
-    </noscript>
 </head>
+
 <body>
 <div class="container">
-    <h1>Burning Man Events</h1>
-    <div class="row mt-4">
-        <div class="col-md-4"><label for="campNameSelect">Camp Name</label><select class="form-control search-input" id="campNameSelect"></select></div>
-        <div class="col-md-4"><label for="locationSelect">Location</label><select class="form-control search-input" id="locationSelect"></select></div>
-        <div class="col-md-4"><label for="dateSelect">Date</label><select class="form-control search-input" id="dateSelect"></select></div>
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
+        <h1 class="mb-3 mb-md-0">Burning Man Events</h1>
     </div>
+
+    <div class="row mt-4">
+        <div class="col-12 col-md-6 mb-3 mb-md-0">
+            <label>Camp Name</label>
+            <select class="form-control search-input" id="campNameSelect"></select>
+        </div>
+        <div class="col-12 col-md-6">
+            <label>Location</label>
+            <select class="form-control search-input" id="locationSelect"></select>
+        </div>
+    </div>
+
+
     <div id="events" class="mt-4"></div>
 </div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
-<script defer src="filter_logic.js"></script>
+
+<script>
+let data = [];
+
+async function loadData() {
+    const response = await fetch('./updated_camp_detail_found.json');
+    data = await response.json();
+    populateDropdowns();
+}
+
+function populateDropdowns() {
+    let uniqueCampNames = [...new Set(data.map(item => item["Camp Name"]))];
+    let uniqueLocations = [...new Set(data.map(item => item["Location"]))];
+
+    uniqueLocations = uniqueLocations.sort((a, b) => {
+        const timeA = a.split(' and ')[0];
+        const timeB = b.split(' and ')[0];
+        return timeA.localeCompare(timeB, undefined, {numeric: true, hour12: false});
+    });
+
+    $("#campNameSelect").select2({
+        theme: 'bootstrap',
+        allowClear: true,
+        placeholder: 'Select or type a camp name',
+        data: uniqueCampNames
+    }).on('select2:select', function () {
+        const selectedLocation = data.find(camp => camp["Camp Name"] === $(this).val())["Location"];
+        $("#locationSelect").val(selectedLocation).trigger('change');
+        searchEvents();
+    }).on('select2:unselect', function () {
+        $("#campNameSelect").val(null).trigger('change');
+        searchEvents();
+    });
+
+    $("#locationSelect").select2({
+        theme: 'bootstrap',
+        allowClear: true,
+        placeholder: 'Select or type a location',
+        data: uniqueLocations
+    }).on('select2:select', function () {
+        const campsAtLocation = data.filter(camp => camp["Location"] === $(this).val()).map(camp => camp["Camp Name"]);
+        $("#campNameSelect").empty().select2({
+            theme: 'bootstrap',
+            data: campsAtLocation
+        });
+        searchEvents();
+    }).on('select2:unselect', function () {
+        $("#campNameSelect").empty().select2({
+            theme: 'bootstrap',
+            placeholder: 'Select or type a camp name',
+            data: uniqueCampNames
+        }).val(null).trigger('change'); // Reset the selected value to null
+        $("#locationSelect").val(null).trigger('change');
+    });
+
+    $("#campNameSelect").val(null).trigger('change');
+    $("#locationSelect").val(null).trigger('change');
+}
+
+function searchEvents() {
+    const selectedCamp = $("#campNameSelect").val();
+    const selectedLocation = $("#locationSelect").val();
+
+    let filteredEvents = data.filter(camp =>
+        (!selectedCamp || camp["Camp Name"] === selectedCamp) &&
+        (!selectedLocation || camp["Location"] === selectedLocation)
+    );
+
+    displayEvents(filteredEvents);
+}
+
+    function displayEvents(camps) {
+        const eventsDiv = document.getElementById('events');
+        eventsDiv.innerHTML = '';
+        camps.forEach(camp => {
+            camp["Events"].forEach(event => {
+                eventsDiv.innerHTML += `
+                    <div class="card mt-2">
+                        <div class="card-body">
+                            <h5>Event: ${event["Event Name"]}</h4>
+                            <h5>Camp: ${camp["Camp Name"]}</h5>
+                            <h5>Location: ${camp["Location"]}</h5>
+                            <br>
+                            <h6>Dates and Times:</h6>
+                            <p>${event["Date and Time"].join('<br>')}</p>
+                            <h6>Type:</h6>
+                            <p>${event["Type"]}</p>
+                            <h6>Located at Camp:</h6>
+                            <p>${event["Located at Camp"]}</p>
+                            <h6>Description:</h6>
+                            <p>${event["Description"]}</p>
+                            <a href="${event["Full Details"]}" target="_blank">Full Details</a>
+                        </div>
+                    </div>
+                `;
+            });
+        });
+    }
+
+$(document).ready(function () {
+    loadData();
+});
+
+
+
+</script>
+
 </body>
 </html>
