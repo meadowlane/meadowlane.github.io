@@ -1,16 +1,20 @@
 $(document).ready(function() {
     // Load JSON file
     $.getJSON('all_events.json', function(data) {
-        // Extract event names
-        let eventNames = data.map(event => event['Event Name']);
 
-        // Setup autocomplete
+        // Setup Fuse.js for fuzzy searching
+        const options = {
+            keys: ['Event Name'],
+            threshold: 0.4,  // Adjust for desired strictness (0 is strict, 1 is loose)
+            includeScore: true  // Useful for filtering results later if needed
+        };
+        const fuse = new Fuse(data, options);
+
+        // Setup autocomplete with Fuse.js
         $('#search').autocomplete({
             source: function(request, response) {
-                let matcher = new RegExp("^" + $.ui.autocomplete.escapeRegex(request.term), "i");
-                response($.grep(eventNames, function(item) {
-                    return matcher.test(item);
-                }));
+                let results = fuse.search(request.term);
+                response(results.map(item => item.item['Event Name']));
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
@@ -20,9 +24,9 @@ $(document).ready(function() {
 });
 
 function displayEventDetails(eventName, data) {
-    let event = data.find(e => e['Event Name'] === eventName);
+    const event = data.find(e => e['Event Name'] === eventName);
     if (event) {
-        $('#eventDetails').css('display', 'block');  // Add this line
+        $('#eventDetails').css('display', 'block');  // Display the details container
         $('#eventDetails').html(`
             <h3>${event['Event Name']}</h3>
             <p>Type: ${event['Type']}</p>
