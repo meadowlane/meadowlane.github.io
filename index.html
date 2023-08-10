@@ -10,102 +10,128 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <style>
-        /* Styles from HTML A */
-        body {
-            font-family: 'Arial', sans-serif;
-            padding: 20px;
-        }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #222;
+    color: #eaeaea;
+    padding: 20px;
+}
 
-        .container {
-            max-width: 800px;
-        }
+.container {
+    max-width: 800px;
+}
 
-        @media (max-width: 768px) {
-            .container {
-                max-width: 100%;
-            }
-        }
-
-        /* Styles from HTML B */
-        body {
-            background-color: #222;
-            color: #eaeaea;
-        }
-
-        h2 {
-            color: #ddd;
-        }
-
-        #search {
-            padding: 10px;
-            border: none;
-            border-radius: 4px;
-            background-color: #333;
-            color: #eee;
-            width: 100%;
-            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-        }
-
-            body {
-        font-family: Arial, sans-serif;
-        background-color: #222;
-        color: #eaeaea;
+@media (max-width: 768px) {
+    .container {
+        max-width: 100%;
     }
+}
 
-    h2 {
-        color: #ddd;
-    }
+h2 {
+    color: #ddd;
+}
 
-    #search {
-        padding: 10px;
-        border: none;
-        border-radius: 4px;
-        background-color: #333;
-        color: #eee;
-        width: 100%;
-        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    }
+#search,
+.select2-selection.select2-selection--single {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    color: #eee;
+    width: 100%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
 
-    .ui-autocomplete {
-        max-height: 200px;
-        overflow-y: auto;
-        background-color: #333;
-        color: #eee;
-        border: none;
-        border-radius: 4px;
-        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    }
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: #333;
+    color: #eee;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
 
-    .ui-autocomplete .ui-menu-item .ui-menu-item-wrapper {
-        padding: 8px 12px;
-        border-radius: 4px;
-        cursor: pointer;
-    }
+.ui-autocomplete .ui-menu-item .ui-menu-item-wrapper {
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
 
-    .ui-autocomplete .ui-menu-item .ui-menu-item-wrapper.ui-state-active {
-        background-color: #444;
-        color: #eee;
-    }
+.ui-autocomplete .ui-menu-item .ui-menu-item-wrapper.ui-state-active {
+    background-color: #444;
+    color: #eee;
+}
 
-    #eventDetails {
-        margin-t: 20px;
-        background-color: #333;
-        padding: 15px;
-        border-radius: 5px;
-        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-        display: none;
-    }
+#eventDetails {
+    margin-top: 20px;
+    background-color: #333;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    display: none;
+}
 
-    a {
-        color: #1e88e5;
-        text-decoration: none;
-    }
+a {
+    color: #1e88e5;
+    text-decoration: none;
+}
 
-    a:hover {
-        text-decoration: underline;
-    }
+a:hover {
+    text-decoration: underline;
+}
 
+.select2-results__option {
+    background-color: #333;
+    color: #eee;
+}
 
+.select2-results__option--highlighted {
+    background-color: #444;
+    color: #eee;
+}
+
+.select2-selection__clear {
+    color: #eee;
+    background-color: #444;
+}
+
+.select2-selection__arrow b {
+    border-color: #eee transparent transparent transparent;
+}
+
+/* To remove the box inside a box look */
+.select2-container--default .select2-selection--single {
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.select2-search__field {
+    background-color: #333 !important; /* Background color */
+    color: #eee !important;            /* Text color */
+    border: none !important;           /* Removing border */
+}
+/* 1. Remove white border from dropdown option list and container */
+.select2-dropdown, .select2-container--open .select2-selection--single {
+    border: none !important;
+}
+
+/* 2. Change the background color for selected option in dropdown */
+.select2-results__option[aria-selected=true] {
+    background-color: #444 !important;
+}
+
+/* 3. Style the clear button */
+.select2-selection__clear {
+    border: none !important;   /* Remove border */
+    background-color: #333 !important; /* Adjust if needed */
+}
+
+.select2-selection__rendered {
+    color: #FFFFFF; /* Change this to any bright color you'd like */
+    background-color: #333; /* Adjust this if you want to change the background color */
+}
 
     </style>
 </head>
