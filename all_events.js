@@ -14,7 +14,9 @@ $(document).ready(function() {
         $('#search').autocomplete({
             source: function(request, response) {
                 let results = fuse.search(request.term);
-                response(results.map(item => item.item['Event Name']));
+                // Convert the mapped results into a set to ensure uniqueness
+                let uniqueResults = [...new Set(results.map(item => item.item['Event Name']))];
+                response(uniqueResults);
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
@@ -30,9 +32,9 @@ function displayEventDetails(eventName, data) {
         $('#eventDetails').html(`
             <h3>${event['Event Name']}</h3>
             <h5>Location: ${event['Location']}</h5>
+            <h5>Camp Name: ${event['Camp Name']}</h5>
             </br>
             <p>Type: ${event['Type']}</p>
-            <p>Located at: ${event['Located at Camp']}</p>
             <p>Description: ${event['Description']}</p>
             <p>Dates and Times: ${event['Date and Time'].join(', ')}</p>
             </br>
