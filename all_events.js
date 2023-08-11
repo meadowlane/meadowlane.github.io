@@ -1,4 +1,6 @@
 $(document).ready(function() {
+    let initialViewportHeight = window.innerHeight;
+
     // Load JSON file
     $.getJSON('all_events.json', function(data) {
 
@@ -14,16 +16,14 @@ $(document).ready(function() {
         $('#search').autocomplete({
             source: function(request, response) {
                 let results = fuse.search(request.term);
-                // Convert the mapped results into a set to ensure uniqueness
                 let uniqueResults = [...new Set(results.map(item => item.item['Event Name']))];
                 response(uniqueResults);
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
 
-                // Scroll to event details
                 $('html, body').animate({
-                    scrollTop: $("#eventDetails").offset().top - 20  // The '-20' provides a little margin
+                    scrollTop: $("#eventDetails").offset().top - 20
                 }, 300);
             },
             open: function() {
@@ -33,14 +33,14 @@ $(document).ready(function() {
 
                 const dropdownTop = $(this).offset().top;
                 const dropdownHeight = $(this).autocomplete("widget").height();
-                const windowHeight = $(window).height();
-                const scrollTo = dropdownTop + dropdownHeight/2 - windowHeight/2;
+                const visibleHeight = window.innerHeight; // Current viewport height
+                const keyboardHeight = initialViewportHeight - visibleHeight; // Approximate height of OSK
+                const scrollTo = dropdownTop + dropdownHeight/2 - (visibleHeight/2) + keyboardHeight/2;
 
                 $('html, body').animate({
                     scrollTop: scrollTo
                 }, 300);
             }
-
         });
     });
 });
