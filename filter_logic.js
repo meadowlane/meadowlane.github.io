@@ -65,35 +65,41 @@ function searchEvents() {
     );
 
     displayEvents(filteredEvents);
+
+    if (filteredEvents.length > 0) {
+        $('html, body').animate({
+            scrollTop: $("#events").offset().top
+        }, 500); // 500 is the duration for the scrolling animation
+    }
 }
 
-    function displayEvents(camps) {
-        const eventsDiv = document.getElementById('events');
-        eventsDiv.innerHTML = '';
-        camps.forEach(camp => {
-            camp["Events"].forEach(event => {
-                eventsDiv.innerHTML += `
-                    <div class="card mt-2">
-                        <div class="card-body">
-                            <h5>Event: ${event["Event Name"]}</h4>
-                            <h5>Camp: ${camp["Camp Name"]}</h5>
-                            <h5>Location: ${camp["Location"]}</h5>
-                            <br>
-                            <h6>Dates and Times:</h6>
-                            <p>${event["Date and Time"].join('<br>')}</p>
-                            <h6>Type:</h6>
-                            <p>${event["Type"]}</p>
-                            <h6>Located at Camp:</h6>
-                            <p>${event["Located at Camp"]}</p>
-                            <h6>Description:</h6>
-                            <p>${event["Description"]}</p>
-                            <a href="${event["Full Details"]}" target="_blank">Full Details</a>
-                        </div>
+function displayEvents(camps) {
+    const eventsDiv = document.getElementById('events');
+    eventsDiv.innerHTML = '';
+    camps.forEach(camp => {
+        camp["Events"].forEach(event => {
+            eventsDiv.innerHTML += `
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <h5>Event: ${event["Event Name"]}</h4>
+                        <h5>Camp: ${camp["Camp Name"]}</h5>
+                        <h5>Location: ${camp["Location"]}</h5>
+                        <br>
+                        <h6>Dates and Times:</h6>
+                        <p>${event["Date and Time"].join('<br>')}</p>
+                        <h6>Type:</h6>
+                        <p>${event["Type"]}</p>
+                        <h6>Located at Camp:</h6>
+                        <p>${event["Located at Camp"]}</p>
+                        <h6>Description:</h6>
+                        <p>${event["Description"]}</p>
+                        <a href="${event["Full Details"]}" target="_blank">Full Details</a>
                     </div>
-                `;
-            });
+                </div>
+            `;
         });
-    }
+    });
+}
 
 $(document).ready(function () {
     loadData();

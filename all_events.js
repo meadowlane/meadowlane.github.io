@@ -20,12 +20,24 @@ $(document).ready(function() {
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
+
+                // Scroll to event details
+                $('html, body').animate({
+                    scrollTop: $("#eventDetails").offset().top - 20  // The '-20' provides a little margin
+                }, 300);
+            },
+            open: function() {
+                const dropdownTop = $(this).offset().top;
+                const dropdownHeight = $(this).autocomplete("widget").height();
+                const windowHeight = $(window).height();
+                const scrollTo = dropdownTop + dropdownHeight/2 - windowHeight/2;
+
+                $('html, body').animate({
+                    scrollTop: scrollTo
+                }, 300);
             }
 
         });
-        $('#search').on('blur', function(event) {
-    event.stopImmediatePropagation();
-    });
     });
 });
 
