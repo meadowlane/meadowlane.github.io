@@ -24,12 +24,26 @@ $(document).ready(function() {
                 $('html, body').animate({
                     scrollTop: $("#eventDetails").offset().top - 20
                 }, 300);
-                $(this).blur();
+                setTimeout(() => {
+                    $(this).blur();
+                }, 100);
             }
         });
 
         $('#search').on('blur', function() {
             $(this).autocomplete('search', $(this).val());
+        });
+
+        $('#search').on('input', function() {
+            if ($(this).val()) {
+                $('#clearSearch').show();
+            } else {
+                $('#clearSearch').hide();
+            }
+        });
+
+        $('#clearSearch').click(function() {
+            $('#search').val('').trigger('input').focus();
         });
 
         function displayEventDetails(eventName, data) {

@@ -25,11 +25,9 @@ function populateDropdowns() {
         const selectedLocation = data.find(camp => camp["Camp Name"] === $(this).val())["Location"];
         $("#locationSelect").val(selectedLocation).trigger('change');
         searchEvents();
-        $(this).blur();
     }).on('select2:unselect', function () {
         $("#campNameSelect").val(null).trigger('change');
         searchEvents();
-        $(this).blur();
     });
 
     $("#locationSelect").select2({
@@ -44,7 +42,6 @@ function populateDropdowns() {
             data: campsAtLocation
         });
         searchEvents();
-        $(this).blur();
     }).on('select2:unselect', function () {
         $("#campNameSelect").empty().select2({
             theme: 'bootstrap',
@@ -52,7 +49,6 @@ function populateDropdowns() {
             data: uniqueCampNames
         }).val(null).trigger('change');
         $("#locationSelect").val(null).trigger('change');
-        $(this).blur();
     });
 
     $("#campNameSelect").val(null).trigger('change');
@@ -85,7 +81,7 @@ function displayEvents(camps) {
             eventsDiv.innerHTML += `
                 <div class="card mt-2">
                     <div class="card-body">
-                        <h5>Event: ${event["Event Name"]}</h5>
+                        <h5>Event: ${event["Event Name"]}</h4>
                         <h5>Camp: ${camp["Camp Name"]}</h5>
                         <h5>Location: ${camp["Location"]}</h5>
                         <br>
