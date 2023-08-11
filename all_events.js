@@ -1,5 +1,6 @@
 $(document).ready(function() {
     let initialViewportHeight = window.innerHeight;
+    let isKeyboardVisible = false;
 
     // Load JSON file
     $.getJSON('all_events.json', function(data) {
@@ -7,11 +8,11 @@ $(document).ready(function() {
         // Setup Fuse.js for fuzzy searching
         const options = {
             keys: [
-            { name: 'Event Name', weight: 3 },
-            { name: 'Camp Name', weight: 2},
-            { name: 'Location', weight: 1},
-            { name: 'Description', weight: 1 },
-            { name: 'Date and Time', weight: 1}
+                { name: 'Event Name', weight: 3 },
+                { name: 'Camp Name', weight: 2},
+                { name: 'Location', weight: 1},
+                { name: 'Description', weight: 1 },
+                { name: 'Date and Time', weight: 1}
             ],
             threshold: 0.25,
             includeScore: true
@@ -46,30 +47,42 @@ $(document).ready(function() {
                 $('html, body').animate({
                     scrollTop: scrollTo
                 }, 300);
+            },
+            close: function(event) {
+                if ($(event.target).is('#search')) {
+                    return false; // Prevent closing of autocomplete when input loses focus.
+                }
             }
         });
 
-        // Prevent autocomplete from closing when input loses focus
-        $('#search').on('blur', function (event) {
-            event.preventDefault();
+        $('#search').on('focus', function() {
+            isKeyboardVisible = true;
+        });
+
+        // Listen for window resize events
+        $(window).resize(function() {
+            if (isKeyboardVisible && window.innerHeight > initialViewportHeight) {
+                isKeyboardVisible = false;
+                $('#search').blur();
+            }
         });
     });
-});
 
-function displayEventDetails(eventName, data) {
-    const event = data.find(e => e['Event Name'] === eventName);
-    if (event) {
-        $('#eventDetails').css('display', 'block');  // Display the details container
-        $('#eventDetails').html(`
-            <h3>${event['Event Name']}</h3>
-            <h5>Location: ${event['Location']}</h5>
-            <h5>Camp Name: ${event['Camp Name']}</h5>
-            </br>
-            <p>Type: ${event['Type']}</p>
-            <p>Description: ${event['Description']}</p>
-            <p>Dates and Times: <br>${event['Date and Time'].join('<br>')}</p>
-            </br>
-            <a href="${event['Full Details']}" target="_blank">Full Details</a>
-        `);
+    function displayEventDetails(eventName, data) {
+        const event = data.find(e => e['Event Name'] === eventName);
+        if (event) {
+            $('#eventDetails').css('display', 'block');  // Display the details container
+            $('#eventDetails').html(`
+                <h3>${event['Event Name']}</h3>
+                <h5>Location: ${event['Location']}</h5>
+                <h5>Camp Name: ${event['Camp Name']}</h5>
+                </br>
+                <p>Type: ${event['Type']}</p>
+                <p>Description: ${event['Description']}</p>
+                <p>Dates and Times: <br>${event['Date and Time'].join('<br>')}</p>
+                </br>
+                <a href="${event['Full Details']}" target="_blank">Full Details</a>
+            `);
+        }
     }
-}
+});
