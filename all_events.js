@@ -48,6 +48,11 @@ $(document).ready(function() {
                 }, 300);
             }
         });
+
+        // Prevent autocomplete from closing when input loses focus
+        $('#search').on('blur', function (event) {
+            event.preventDefault();
+        });
     });
 });
 
