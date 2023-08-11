@@ -27,6 +27,10 @@ $(document).ready(function() {
                 }, 300);
             },
             open: function() {
+                if ($('#eventDetails').is(':visible')) {
+                    return; // Skip adjusting the viewport if event details are being displayed
+                }
+
                 const dropdownTop = $(this).offset().top;
                 const dropdownHeight = $(this).autocomplete("widget").height();
                 const windowHeight = $(window).height();
