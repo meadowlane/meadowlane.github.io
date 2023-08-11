@@ -6,8 +6,8 @@ $(document).ready(function() {
 
         // Setup Fuse.js for fuzzy searching
         const options = {
-            keys: ['Event Name', 'Description'],
-            threshold: 0.4,  // Adjust for desired strictness (0 is strict, 1 is loose)
+            keys: ['Event Name'],
+            threshold: 0.1,  // Adjust for desired strictness (0 is strict, 1 is loose)
             includeScore: true  // Useful for filtering results later if needed
         };
         const fuse = new Fuse(data, options);
