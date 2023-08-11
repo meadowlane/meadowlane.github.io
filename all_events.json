@@ -1647,6 +1647,172 @@
         "Camp Name": "AdramaNation"
     },
     {
+        "Event Name": "Big Easy Grilled Cheesy",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 12 PM \u2013   1 PM",
+            "Tuesday, August 29th, 2023, 12 PM \u2013   1 PM",
+            "Wednesday, August 30th, 2023, 12 PM \u2013   1 PM",
+            "Thursday, August 31st, 2023, 12 PM \u2013   1 PM",
+            "Friday, September 1st, 2023, 12 PM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Share your cheesiest story while eating a buttery good grilled cheese sandwich. Bonus points if your story involves New",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45835/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Jerseys OG Breakfast Sando",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 10 AM \u2013   11:30 AM",
+            "Friday, September 1st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "\"You know that thing that no one else has outside of your area? Ya. Taylor ham is ours.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45848/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Whose Burn is it Anyway? An Intro to Improv Comedy",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 3 PM \u2013   4:30 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Discover the fundamentals of improv in this participation-based workshop! Through fun (and ridiculous) games.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45869/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Guided Meditation",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come find your breath and get centered with soothing guidance to lead you through the steps of basic meditation.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45863/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Creating Creative Space with Teatime",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 11:30 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Ritual/Ceremony",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come detox your mind, and learn how to create space in the world with one of the most iconic commodities, tea.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45866/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Grape Escape Wine Tasting",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7:30 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Sip some wine while the sun kisses the sky.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45819/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Spanish Summer",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 10 AM \u2013   11:30 AM",
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "For a taste of Spanish summer at the Playa, come and enjoy a classic dish and drink combo 21+",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45857/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Guided Meditation",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come find your breath and get centered with soothing guidance to lead you through the steps of basic meditation.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45864/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Wearable Playa Keepsake",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4:30 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Join us for the most delightful playa soil art sesh. Ever miss the dusty playa out there in default world?",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45871/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Wheel of Vodka",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 6 PM \u2013   7 PM",
+            "Wednesday, August 30th, 2023, 6 PM \u2013   7 PM",
+            "Friday, September 1st, 2023, 6 PM \u2013   7 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Games",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Give the wheel a whirl to discover your shot of vodka!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45841/",
+        "Camp Name": "AdramaNation"
+    },
+    {
         "Event Name": "AerialKnotics Basic Rope Bondage",
         "Date and Time": [
             "Monday, August 28th, 2023, 1 PM \u2013   3 PM",
@@ -5473,6 +5639,82 @@
         "Location": "TBD",
         "Description": "Assemble a unique combination of head, trunk and limbs, draw your own creative pieces or use parts of your own body.24/7",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/43495/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Sip and Chill",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 7:30 PM \u2013   10:30 PM",
+            "Thursday, August 31st, 2023, 7:30 PM \u2013   10:30 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Join new friends and old for cool liquid refreshments and relaxing conversations in our humble, yet cozy space. BYO cup",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45758/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Watering Hole Self-Stretch Sesh",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 9 AM \u2013   11 AM",
+            "Tuesday, August 29th, 2023, 9 AM \u2013   11 AM",
+            "Wednesday, August 30th, 2023, 9 AM \u2013   11 AM",
+            "Thursday, August 31st, 2023, 9 AM \u2013   11 AM",
+            "Friday, September 1st, 2023, 9 AM \u2013   11 AM",
+            "Saturday, September 2nd, 2023, 9 AM \u2013   11 AM",
+            "Sunday, September 3rd, 2023, 9 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023",
+            "Saturday September 02, 2023",
+            "Sunday September 03, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Use our chill space to wake up your inner animal with some self-guided stretching amidst misty jungle vibes!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45771/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Cuddle Puddle",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 7:30 PM \u2013   10:30 PM",
+            "Friday, September 1st, 2023, 7:30 PM \u2013   10:30 PM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Do you love hugs? Spooning? Head scratches? Explore the magic and delight of consensual, non-sexual, physical intimacy.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45757/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Charleston Dance Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4 PM \u2013   5 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Calling all swingin' cats and rockin' robins! Come learn some fun steps in the 30s Charleston style and dance with us!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45761/",
         "Camp Name": "Baggage Check"
     },
     {
@@ -16131,6 +16373,53 @@
         "Camp Name": "DISORIENT"
     },
     {
+        "Event Name": "Face Painting",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Visit our dome to have your face painted!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45823/",
+        "Camp Name": "Dacha"
+    },
+    {
+        "Event Name": "How to Get Started Slacklining",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 4 PM \u2013   6 PM",
+            "Thursday, August 31st, 2023, 4 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Slackline 101 training! Try it yourself with our guidance!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45813/",
+        "Camp Name": "Dacha"
+    },
+    {
+        "Event Name": "Yin Yang Yoga Class",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 9 AM \u2013   10 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Yin Yang Yoga blends two styles of yoga into one practice",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45815/",
+        "Camp Name": "Dacha"
+    },
+    {
         "Event Name": "Slushies and Skintight Scalies",
         "Date and Time": [
             "Friday, September 1st, 2023, 1 PM \u2013   4 PM"
@@ -19778,6 +20067,21 @@
         "Camp Name": "Favela"
     },
     {
+        "Event Name": "A\u00e7a\u00ed Bowl",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Favela",
+        "Location": "9:15 & H",
+        "Description": "Delicious, healthy and nutritious Brazilian acai served chilled to beat the desert heat!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45827/",
+        "Camp Name": "Favela"
+    },
+    {
         "Event Name": "Feed the Artists Late Night Food Court!",
         "Date and Time": [
             "Monday, August 28th, 2023, 11 PM \u2013   1 AM",
@@ -20127,6 +20431,40 @@
         "Location": "2:00 & A",
         "Description": "Dark, melodic, driving electronic music under a one-of-a-kind 360 immersive sound system. Also ramen served at midnight!",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/43485/",
+        "Camp Name": "Fluffer Camp"
+    },
+    {
+        "Event Name": "Fluffy Ramen & Bar @ The Fluffy Cloud",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 12 AM \u2013   4 AM",
+            "Wednesday, August 30th, 2023, 12 AM \u2013   4 AM",
+            "Friday, September 1st, 2023, 12 AM \u2013   4 AM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Fluffer Camp",
+        "Location": "2:00 & A",
+        "Description": "Come enjoy hot free noods and refreshing drinks under the Cloud's beats",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45809/",
+        "Camp Name": "Fluffer Camp"
+    },
+    {
+        "Event Name": "Fallen Angel Party at The Fluffy Cloud",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 5:30 PM \u2013   5:30 AM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "Fluffer Camp",
+        "Location": "2:00 & A",
+        "Description": "Release your inner fallen angel, your bad side that used to be so good comes out tonight.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45801/",
         "Camp Name": "Fluffer Camp"
     },
     {
@@ -22282,6 +22620,21 @@
         "Location": "3:00 & Portal",
         "Description": "We'll trade ya! Tell us which famous babe is 'most likely to' in exchange for a good old fashioned burrito",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/45014/",
+        "Camp Name": "HARDLY"
+    },
+    {
+        "Event Name": "Quick \"Draw\" contest",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 12 PM \u2013   2 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Miscellaneous",
+        "Located at Camp": "HARDLY",
+        "Location": "3:00 & Portal",
+        "Description": "A timed drawing contest; whose drawing is the best of the same person, place or thing.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45811/",
         "Camp Name": "HARDLY"
     },
     {
@@ -25623,6 +25976,23 @@
         "Camp Name": "Hushville"
     },
     {
+        "Event Name": "Shaved Ice. So Nice!",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   3 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Hushville",
+        "Location": "5:15 & E",
+        "Description": "Shaved ice at Flash Cube in classic, whimsical or adult flavors. Bring your cup. Gifts of block ice are welcome.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45804/",
+        "Camp Name": "Hushville"
+    },
+    {
         "Event Name": "Hushville Free Library",
         "Date and Time": [
             "Sunday, September 3rd, 2023, 10 AM \u2013   4 PM"
@@ -27610,6 +27980,21 @@
         "Location": "TBD",
         "Description": "Discover group cuddling's comfort & connection in a fun, juicy, & lips-free manner. Join this consent-focused fun time!",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/45518/",
+        "Camp Name": "KISS"
+    },
+    {
+        "Event Name": "Grape Escape Wine Tasting",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7:30 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "TBD",
+        "Description": "Sip some wine while the sun kisses the sky.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45819/",
         "Camp Name": "KISS"
     },
     {
@@ -31762,6 +32147,23 @@
         "Camp Name": "Mindless Movement"
     },
     {
+        "Event Name": "Poetry for the People (and tea)",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   3:30 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   3:30 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Mindless Movement",
+        "Location": "TBD",
+        "Description": "Amateur Poets Unite! Connect, laugh, cry, and create poems for and with each other! No Experience Needed!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45867/",
+        "Camp Name": "Mindless Movement"
+    },
+    {
         "Event Name": "Fire Jam at Minimal Chaos",
         "Date and Time": [
             "Thursday, August 31st, 2023, 8 PM \u2013   10 PM",
@@ -32463,6 +32865,21 @@
         "Camp Name": "My Dad's House"
     },
     {
+        "Event Name": "Ladies Night",
+        "Date and Time": [
+            "Sunday, September 3rd, 2023, 12 AM \u2013   4 AM"
+        ],
+        "Dates": [
+            "Sunday September 03, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "My Dad's House",
+        "Location": "TBD",
+        "Description": "We\u2019re gettin wild on burn night with an all-women lineup! It\u2019s ladies night at My Dad\u2019s House!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45751/",
+        "Camp Name": "My Dad's House"
+    },
+    {
         "Event Name": "Mojito Making Workshop",
         "Date and Time": [
             "Thursday, August 31st, 2023, 4 PM \u2013   5:30 PM"
@@ -32735,6 +33152,68 @@
         "Location": "6:45 & F",
         "Description": "Full Viking Mead Hall and Fire Show!! The Quest Interactive Game!!!!",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/43395/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Bellydancing Bliss",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come melt into movement, and find your rhythm in the music, as we Bellydance our bodies into bliss!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45799/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Mindfulness and Yoga",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   12 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come relax your mind, body and soul in this nourishing led practice, to let the magic of the playa sink in deep!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45821/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Revive and Stretch",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 12:30 PM \u2013   1:30 PM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "After a week of playa exploring come to slow down with us, stretch your body and leave feeling revived for the weekend!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45828/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Acro Yoga Flying Fun",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 10 AM \u2013   12 PM",
+            "Friday, September 1st, 2023, 10 AM \u2013   12 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come learn to fly and lift up your friends! Find your balance, get in flow, and surprise yourself with what you can do!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45794/",
         "Camp Name": "MythMaker"
     },
     {
@@ -41336,6 +41815,36 @@
         "Camp Name": "Run Free Camp"
     },
     {
+        "Event Name": "Meditation Any A Meeting",
+        "Date and Time": [
+            "Saturday, September 2nd, 2023, 9 AM \u2013   10 AM"
+        ],
+        "Dates": [
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Run Free Camp",
+        "Location": "6:45 & G",
+        "Description": "Meditation and Recovery; from what - only you can say.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45766/",
+        "Camp Name": "Run Free Camp"
+    },
+    {
+        "Event Name": "Love Letter Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Run Free Camp",
+        "Location": "6:45 & G",
+        "Description": "Signed, Sealed, Delivered, I'm Yours! Write a love letter that pulls from your left and right brain to share your heart.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45729/",
+        "Camp Name": "Run Free Camp"
+    },
+    {
         "Event Name": "S'MORES",
         "Date and Time": [
             "Monday, August 28th, 2023, 7 PM \u2013   8 PM",
@@ -42875,6 +43384,91 @@
         "Camp Name": "ShamanDome"
     },
     {
+        "Event Name": "Shamanic Soul Retrieval Healing Circle",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 11 AM \u2013   1 PM",
+            "Saturday, September 2nd, 2023, 11 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023",
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Your Power Animal retrieves lost soul parts which your client left behind during a trauma. Prerequisite: Power Animal.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45840/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Energy Numerology",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Unlock the numerological meaning of your birth date to gain a deep understanding of your true abilities and strengths.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45842/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Participatory Transformative Workshop",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   4 PM",
+            "Wednesday, August 30th, 2023, 2 PM \u2013   4 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM",
+            "Friday, September 1st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Check our board at our Entrance for new offerings every day.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45852/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Shamanic Extraction Healing",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 11 AM \u2013   1 PM",
+            "Friday, September 1st, 2023, 11 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Your Power Animal helps you clear blocked energies from your client\u2019s body and restore flow. Prerequisite: Power Animal.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45839/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "The Magic of Shapeshifting",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Embody qualities of archetypal animals. Put more power into your daily life by practicing animal & plant shapeshifting.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45847/",
+        "Camp Name": "ShamanDome"
+    },
+    {
         "Event Name": "Best Beach Bar",
         "Date and Time": [
             "Monday, August 28th, 2023, 9 AM \u2013   6:30 PM",
@@ -43606,6 +44200,21 @@
         "Description": "BYOB (bring your own brunch). We\u2019ll bring the beats.",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/43904/",
         "Camp Name": "Sockdrawer"
+    },
+    {
+        "Event Name": "Zendo Ttraining",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 12 PM \u2013   2 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Soft Landing",
+        "Location": "8:30 & F",
+        "Description": "Zendo Harm Reduction Training",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45780/",
+        "Camp Name": "Soft Landing"
     },
     {
         "Event Name": "\"Where da Party at?!\" Escape Room",
@@ -45362,6 +45971,53 @@
         "Camp Name": "Starship Aquarius"
     },
     {
+        "Event Name": "Big Ass Stamps",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 1 PM \u2013   3 PM",
+            "Friday, September 1st, 2023, 1 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "We provide extra-large rubber stamps and ink pads for burners. You provide your body or any other stampable surface!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45802/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
+        "Event Name": "Coloring Corner",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 3 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "Chillout and cool down, coloring supplies provided",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45820/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
+        "Event Name": "Women's Self Defense Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "Easy self-defense tools, not just for Women!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45812/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
         "Event Name": "Nectar of the Gods",
         "Date and Time": [
             "Monday, August 28th, 2023, 8 AM \u2013   10 AM",
@@ -46613,6 +47269,46 @@
         "Description": "Find true inner peace with guidance from our local drunk",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/42415/",
         "Camp Name": "The Dusty Nuts Tavern"
+    },
+    {
+        "Event Name": "Espresso Martini Party!",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 8 PM \u2013   10 PM",
+            "Tuesday, August 29th, 2023, 8 PM \u2013   10 PM",
+            "Thursday, August 31st, 2023, 8 PM \u2013   10 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023",
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "The Espresso Martini Organization",
+        "Location": "7:15 & A",
+        "Description": "Enjoy music, martinis and more at our Espresso Martini Party to keep you cool, classy and caffeinated all evening.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45796/",
+        "Camp Name": "The Espresso Martini Organization"
+    },
+    {
+        "Event Name": "Espresso Martini Party!",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 1 PM \u2013   3 PM",
+            "Wednesday, August 30th, 2023, 1 PM \u2013   3 PM",
+            "Friday, September 1st, 2023, 1 PM \u2013   3 PM",
+            "Saturday, September 2nd, 2023, 1 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023",
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "The Espresso Martini Organization",
+        "Location": "7:15 & A",
+        "Description": "It's hot. You're tired. Cool off with an Iced Espresso Martini to keep you cool, classy, and caffeinated all afternoon.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45797/",
+        "Camp Name": "The Espresso Martini Organization"
     },
     {
         "Event Name": "The Froth Factory Slammer Jammer",
@@ -50876,5 +51572,701 @@
         "Description": "Meditate on death with us. We combine Maranasati mindfulness with European philosophies to enhance your zest for living.",
         "Full Details": "https://playaevents.burningman.org/2023/playa_event/43502/",
         "Camp Name": "qt pies"
+    },
+    {
+        "Event Name": "Big Easy Grilled Cheesy",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 12 PM \u2013   1 PM",
+            "Tuesday, August 29th, 2023, 12 PM \u2013   1 PM",
+            "Wednesday, August 30th, 2023, 12 PM \u2013   1 PM",
+            "Thursday, August 31st, 2023, 12 PM \u2013   1 PM",
+            "Friday, September 1st, 2023, 12 PM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Share your cheesiest story while eating a buttery good grilled cheese sandwich. Bonus points if your story involves New",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45835/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Jerseys OG Breakfast Sando",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 10 AM \u2013   11:30 AM",
+            "Friday, September 1st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "\"You know that thing that no one else has outside of your area? Ya. Taylor ham is ours.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45848/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Whose Burn is it Anyway? An Intro to Improv Comedy",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 3 PM \u2013   4:30 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Discover the fundamentals of improv in this participation-based workshop! Through fun (and ridiculous) games.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45869/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Guided Meditation",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come find your breath and get centered with soothing guidance to lead you through the steps of basic meditation.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45863/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Creating Creative Space with Teatime",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 11:30 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Ritual/Ceremony",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come detox your mind, and learn how to create space in the world with one of the most iconic commodities, tea.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45866/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Grape Escape Wine Tasting",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7:30 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Sip some wine while the sun kisses the sky.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45819/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Spanish Summer",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 10 AM \u2013   11:30 AM",
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "For a taste of Spanish summer at the Playa, come and enjoy a classic dish and drink combo 21+",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45857/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Guided Meditation",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11:30 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Come find your breath and get centered with soothing guidance to lead you through the steps of basic meditation.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45864/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Wearable Playa Keepsake",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4:30 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Join us for the most delightful playa soil art sesh. Ever miss the dusty playa out there in default world?",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45871/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Wheel of Vodka",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 6 PM \u2013   7 PM",
+            "Wednesday, August 30th, 2023, 6 PM \u2013   7 PM",
+            "Friday, September 1st, 2023, 6 PM \u2013   7 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Games",
+        "Located at Camp": "AdramaNation",
+        "Location": "7:45 & G",
+        "Description": "Give the wheel a whirl to discover your shot of vodka!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45841/",
+        "Camp Name": "AdramaNation"
+    },
+    {
+        "Event Name": "Sip and Chill",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 7:30 PM \u2013   10:30 PM",
+            "Thursday, August 31st, 2023, 7:30 PM \u2013   10:30 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Join new friends and old for cool liquid refreshments and relaxing conversations in our humble, yet cozy space. BYO cup",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45758/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Watering Hole Self-Stretch Sesh",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 9 AM \u2013   11 AM",
+            "Tuesday, August 29th, 2023, 9 AM \u2013   11 AM",
+            "Wednesday, August 30th, 2023, 9 AM \u2013   11 AM",
+            "Thursday, August 31st, 2023, 9 AM \u2013   11 AM",
+            "Friday, September 1st, 2023, 9 AM \u2013   11 AM",
+            "Saturday, September 2nd, 2023, 9 AM \u2013   11 AM",
+            "Sunday, September 3rd, 2023, 9 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023",
+            "Saturday September 02, 2023",
+            "Sunday September 03, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Use our chill space to wake up your inner animal with some self-guided stretching amidst misty jungle vibes!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45771/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Cuddle Puddle",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 7:30 PM \u2013   10:30 PM",
+            "Friday, September 1st, 2023, 7:30 PM \u2013   10:30 PM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Do you love hugs? Spooning? Head scratches? Explore the magic and delight of consensual, non-sexual, physical intimacy.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45757/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Charleston Dance Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4 PM \u2013   5 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Baggage Check",
+        "Location": "TBD",
+        "Description": "Calling all swingin' cats and rockin' robins! Come learn some fun steps in the 30s Charleston style and dance with us!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45761/",
+        "Camp Name": "Baggage Check"
+    },
+    {
+        "Event Name": "Face Painting",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 4 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Visit our dome to have your face painted!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45823/",
+        "Camp Name": "Dacha"
+    },
+    {
+        "Event Name": "How to Get Started Slacklining",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 4 PM \u2013   6 PM",
+            "Thursday, August 31st, 2023, 4 PM \u2013   6 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Slackline 101 training! Try it yourself with our guidance!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45813/",
+        "Camp Name": "Dacha"
+    },
+    {
+        "Event Name": "Yin Yang Yoga Class",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 9 AM \u2013   10 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "Dacha",
+        "Location": "9:00 & I",
+        "Description": "Yin Yang Yoga blends two styles of yoga into one practice",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45815/",
+        "Camp Name": "Dacha"
+    },
+    {
+        "Event Name": "A\u00e7a\u00ed Bowl",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Favela",
+        "Location": "9:15 & H",
+        "Description": "Delicious, healthy and nutritious Brazilian acai served chilled to beat the desert heat!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45827/",
+        "Camp Name": "Favela"
+    },
+    {
+        "Event Name": "Fluffy Ramen & Bar @ The Fluffy Cloud",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 12 AM \u2013   4 AM",
+            "Wednesday, August 30th, 2023, 12 AM \u2013   4 AM",
+            "Friday, September 1st, 2023, 12 AM \u2013   4 AM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Fluffer Camp",
+        "Location": "2:00 & A",
+        "Description": "Come enjoy hot free noods and refreshing drinks under the Cloud's beats",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45809/",
+        "Camp Name": "Fluffer Camp"
+    },
+    {
+        "Event Name": "Fallen Angel Party at The Fluffy Cloud",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 5:30 PM \u2013   5:30 AM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "Fluffer Camp",
+        "Location": "2:00 & A",
+        "Description": "Release your inner fallen angel, your bad side that used to be so good comes out tonight.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45801/",
+        "Camp Name": "Fluffer Camp"
+    },
+    {
+        "Event Name": "Quick \"Draw\" contest",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 12 PM \u2013   2 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Miscellaneous",
+        "Located at Camp": "HARDLY",
+        "Location": "3:00 & Portal",
+        "Description": "A timed drawing contest; whose drawing is the best of the same person, place or thing.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45811/",
+        "Camp Name": "HARDLY"
+    },
+    {
+        "Event Name": "Shaved Ice. So Nice!",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   3 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "Hushville",
+        "Location": "5:15 & E",
+        "Description": "Shaved ice at Flash Cube in classic, whimsical or adult flavors. Bring your cup. Gifts of block ice are welcome.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45804/",
+        "Camp Name": "Hushville"
+    },
+    {
+        "Event Name": "Grape Escape Wine Tasting",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 6 PM \u2013   7:30 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023"
+        ],
+        "Type": "Food & Drink",
+        "Located at Camp": "AdramaNation",
+        "Location": "TBD",
+        "Description": "Sip some wine while the sun kisses the sky.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45819/",
+        "Camp Name": "KISS"
+    },
+    {
+        "Event Name": "Poetry for the People (and tea)",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   3:30 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   3:30 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Mindless Movement",
+        "Location": "TBD",
+        "Description": "Amateur Poets Unite! Connect, laugh, cry, and create poems for and with each other! No Experience Needed!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45867/",
+        "Camp Name": "Mindless Movement"
+    },
+    {
+        "Event Name": "Ladies Night",
+        "Date and Time": [
+            "Sunday, September 3rd, 2023, 12 AM \u2013   4 AM"
+        ],
+        "Dates": [
+            "Sunday September 03, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "My Dad's House",
+        "Location": "TBD",
+        "Description": "We\u2019re gettin wild on burn night with an all-women lineup! It\u2019s ladies night at My Dad\u2019s House!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45751/",
+        "Camp Name": "My Dad's House"
+    },
+    {
+        "Event Name": "Bellydancing Bliss",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come melt into movement, and find your rhythm in the music, as we Bellydance our bodies into bliss!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45799/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Mindfulness and Yoga",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   12 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come relax your mind, body and soul in this nourishing led practice, to let the magic of the playa sink in deep!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45821/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Revive and Stretch",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 12:30 PM \u2013   1:30 PM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "After a week of playa exploring come to slow down with us, stretch your body and leave feeling revived for the weekend!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45828/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Acro Yoga Flying Fun",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 10 AM \u2013   12 PM",
+            "Friday, September 1st, 2023, 10 AM \u2013   12 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Yoga/Movement/Fitness",
+        "Located at Camp": "MythMaker",
+        "Location": "6:45 & F",
+        "Description": "Come learn to fly and lift up your friends! Find your balance, get in flow, and surprise yourself with what you can do!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45794/",
+        "Camp Name": "MythMaker"
+    },
+    {
+        "Event Name": "Meditation Any A Meeting",
+        "Date and Time": [
+            "Saturday, September 2nd, 2023, 9 AM \u2013   10 AM"
+        ],
+        "Dates": [
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Run Free Camp",
+        "Location": "6:45 & G",
+        "Description": "Meditation and Recovery; from what - only you can say.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45766/",
+        "Camp Name": "Run Free Camp"
+    },
+    {
+        "Event Name": "Love Letter Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Run Free Camp",
+        "Location": "6:45 & G",
+        "Description": "Signed, Sealed, Delivered, I'm Yours! Write a love letter that pulls from your left and right brain to share your heart.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45729/",
+        "Camp Name": "Run Free Camp"
+    },
+    {
+        "Event Name": "Shamanic Soul Retrieval Healing Circle",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 11 AM \u2013   1 PM",
+            "Saturday, September 2nd, 2023, 11 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023",
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Your Power Animal retrieves lost soul parts which your client left behind during a trauma. Prerequisite: Power Animal.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45840/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Energy Numerology",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Unlock the numerological meaning of your birth date to gain a deep understanding of your true abilities and strengths.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45842/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Participatory Transformative Workshop",
+        "Date and Time": [
+            "Tuesday, August 29th, 2023, 2 PM \u2013   4 PM",
+            "Wednesday, August 30th, 2023, 2 PM \u2013   4 PM",
+            "Thursday, August 31st, 2023, 2 PM \u2013   4 PM",
+            "Friday, September 1st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Tuesday August 29, 2023",
+            "Wednesday August 30, 2023",
+            "Thursday August 31, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Check our board at our Entrance for new offerings every day.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45852/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Shamanic Extraction Healing",
+        "Date and Time": [
+            "Wednesday, August 30th, 2023, 11 AM \u2013   1 PM",
+            "Friday, September 1st, 2023, 11 AM \u2013   1 PM"
+        ],
+        "Dates": [
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Your Power Animal helps you clear blocked energies from your client\u2019s body and restore flow. Prerequisite: Power Animal.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45839/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "The Magic of Shapeshifting",
+        "Date and Time": [
+            "Friday, September 1st, 2023, 2 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Friday September 01, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "ShamanDome",
+        "Location": "8:15 & F",
+        "Description": "Embody qualities of archetypal animals. Put more power into your daily life by practicing animal & plant shapeshifting.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45847/",
+        "Camp Name": "ShamanDome"
+    },
+    {
+        "Event Name": "Zendo Ttraining",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 12 PM \u2013   2 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Soft Landing",
+        "Location": "8:30 & F",
+        "Description": "Zendo Harm Reduction Training",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45780/",
+        "Camp Name": "Soft Landing"
+    },
+    {
+        "Event Name": "Big Ass Stamps",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 1 PM \u2013   3 PM",
+            "Friday, September 1st, 2023, 1 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Friday September 01, 2023"
+        ],
+        "Type": "Arts & Crafts",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "We provide extra-large rubber stamps and ink pads for burners. You provide your body or any other stampable surface!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45802/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
+        "Event Name": "Coloring Corner",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 3 PM \u2013   4 PM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Self Care",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "Chillout and cool down, coloring supplies provided",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45820/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
+        "Event Name": "Women's Self Defense Workshop",
+        "Date and Time": [
+            "Thursday, August 31st, 2023, 10 AM \u2013   11 AM"
+        ],
+        "Dates": [
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Class/Workshop",
+        "Located at Camp": "Stellar Dusty Moon",
+        "Location": "4:30 & D",
+        "Description": "Easy self-defense tools, not just for Women!",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45812/",
+        "Camp Name": "Stellar Dusty Moon"
+    },
+    {
+        "Event Name": "Espresso Martini Party!",
+        "Date and Time": [
+            "Sunday, August 27th, 2023, 8 PM \u2013   10 PM",
+            "Tuesday, August 29th, 2023, 8 PM \u2013   10 PM",
+            "Thursday, August 31st, 2023, 8 PM \u2013   10 PM"
+        ],
+        "Dates": [
+            "Sunday August 27, 2023",
+            "Tuesday August 29, 2023",
+            "Thursday August 31, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "The Espresso Martini Organization",
+        "Location": "7:15 & A",
+        "Description": "Enjoy music, martinis and more at our Espresso Martini Party to keep you cool, classy and caffeinated all evening.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45796/",
+        "Camp Name": "The Espresso Martini Organization"
+    },
+    {
+        "Event Name": "Espresso Martini Party!",
+        "Date and Time": [
+            "Monday, August 28th, 2023, 1 PM \u2013   3 PM",
+            "Wednesday, August 30th, 2023, 1 PM \u2013   3 PM",
+            "Friday, September 1st, 2023, 1 PM \u2013   3 PM",
+            "Saturday, September 2nd, 2023, 1 PM \u2013   3 PM"
+        ],
+        "Dates": [
+            "Monday August 28, 2023",
+            "Wednesday August 30, 2023",
+            "Friday September 01, 2023",
+            "Saturday September 02, 2023"
+        ],
+        "Type": "Gathering/Party",
+        "Located at Camp": "The Espresso Martini Organization",
+        "Location": "7:15 & A",
+        "Description": "It's hot. You're tired. Cool off with an Iced Espresso Martini to keep you cool, classy, and caffeinated all afternoon.",
+        "Full Details": "https://playaevents.burningman.org/2023/playa_event/45797/",
+        "Camp Name": "The Espresso Martini Organization"
     }
 ]
