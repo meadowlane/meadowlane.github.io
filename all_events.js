@@ -1,7 +1,4 @@
 $(document).ready(function() {
-    let initialViewportHeight = window.innerHeight;
-    let isKeyboardVisible = false;
-
     // Load JSON file
     $.getJSON('all_events.json', function(data) {
 
@@ -32,40 +29,13 @@ $(document).ready(function() {
                 $('html, body').animate({
                     scrollTop: $("#eventDetails").offset().top - 20
                 }, 300);
-            },
-            open: function() {
-                if ($('#eventDetails').is(':visible')) {
-                    return; // Skip adjusting the viewport if event details are being displayed
-                }
-
-                const dropdownTop = $(this).offset().top;
-                const dropdownHeight = $(this).autocomplete("widget").height();
-                const visibleHeight = window.innerHeight; // Current viewport height
-                const keyboardHeight = initialViewportHeight - visibleHeight; // Approximate height of OSK
-                const scrollTo = dropdownTop + dropdownHeight/2 - (visibleHeight/2) + keyboardHeight/2;
-
-                $('html, body').animate({
-                    scrollTop: scrollTo
-                }, 300);
-            },
-            close: function(event) {
-                if ($(event.target).is('#search')) {
-                    return false; // Prevent closing of autocomplete when input loses focus.
-                }
             }
         });
+    });
 
-        $('#search').on('focus', function() {
-            isKeyboardVisible = true;
-        });
-
-        // Listen for window resize events
-        $(window).resize(function() {
-            if (isKeyboardVisible && window.innerHeight > initialViewportHeight) {
-                isKeyboardVisible = false;
-                $('#search').blur();
-            }
-        });
+    // Keep the autocomplete results visible when input loses focus
+    $('#search').on('blur', function() {
+        $(this).autocomplete('search', $(this).val());
     });
 
     function displayEventDetails(eventName, data) {
