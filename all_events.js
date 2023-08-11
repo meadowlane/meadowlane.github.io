@@ -6,10 +6,13 @@ $(document).ready(function() {
 
         // Setup Fuse.js for fuzzy searching
         const options = {
-            keys: ['Event Name', 'Description'],
-            threshold: 0.25,  // Adjust for desired strictness (0 is strict, 1 is loose)
-            includeScore: true  // Useful for filtering results later if needed
-        };
+            keys: [
+            { name: 'Event Name', weight: 3 },  // A weight of 2 means it's twice as important
+            { name: 'Description', weight: 1 }  // Default weight is 1
+            ],
+            threshold: 0.25,
+            includeScore: true
+            };
         const fuse = new Fuse(data, options);
 
         // Setup autocomplete with Fuse.js
