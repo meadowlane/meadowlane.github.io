@@ -9,6 +9,7 @@ $(document).ready(function() {
             keys: [
             { name: 'Event Name', weight: 3 },  // A weight of 2 means it's twice as important
             { name: 'Camp Name', weight: 2},
+            { name: 'Location', weight: 1},
             { name: 'Description', weight: 1 },
             { name: 'Date and Time', weight: 1}
             ],
