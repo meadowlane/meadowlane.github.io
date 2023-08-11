@@ -29,10 +29,13 @@ function displayEventDetails(eventName, data) {
         $('#eventDetails').css('display', 'block');  // Display the details container
         $('#eventDetails').html(`
             <h3>${event['Event Name']}</h3>
+            <h5>Location: ${event['Location']}</h5>
+            </br>
             <p>Type: ${event['Type']}</p>
             <p>Located at: ${event['Located at Camp']}</p>
             <p>Description: ${event['Description']}</p>
             <p>Dates and Times: ${event['Date and Time'].join(', ')}</p>
+            </br>
             <a href="${event['Full Details']}" target="_blank">Full Details</a>
         `);
     }
