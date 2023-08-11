@@ -21,6 +21,7 @@ $(document).ready(function() {
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
             }
+                delay: 500  // This adds a 500ms delay after typing stops
 
         });
         $('#search').on('blur', function(event) {
