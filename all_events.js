@@ -21,7 +21,11 @@ $(document).ready(function() {
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
             }
+
         });
+        $('#search').on('blur', function(event) {
+    event.stopImmediatePropagation();
+    });
     });
 });
 
