@@ -22,6 +22,7 @@ $(document).ready(function() {
                 let results = fuse.search(request.term);
                 let uniqueResults = [...new Set(results.map(item => `${item.item['Event Name']} (${item.item['Camp Name']} - ${item.item['Location']})`))];
                 response(uniqueResults);
+                delay: 10000
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value.split(" (")[0], data);  // Extracting only the Event Name from the string
@@ -33,10 +34,6 @@ $(document).ready(function() {
         });
     });
 
-    // Keep the autocomplete results visible when input loses focus
-    $('#search').on('blur', function() {
-        $(this).autocomplete('search', $(this).val());
-    });
 
     function displayEventDetails(eventName, data) {
         const event = data.find(e => e['Event Name'] === eventName);
