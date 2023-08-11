@@ -14,19 +14,14 @@ $(document).ready(function() {
         $('#search').autocomplete({
             source: function(request, response) {
                 let results = fuse.search(request.term);
-                // Convert the mapped results into a set to ensure uniqueness
+                response(results.map(item => item.item['Event Name']));
                 let uniqueResults = [...new Set(results.map(item => item.item['Event Name']))];
                 response(uniqueResults);
             },
             select: function(event, ui) {
                 displayEventDetails(ui.item.value, data);
             }
-                delay: 500  // This adds a 500ms delay after typing stops
-
         });
-        $('#search').on('blur', function(event) {
-    event.stopImmediatePropagation();
-    });
     });
 });
 
@@ -40,6 +35,7 @@ function displayEventDetails(eventName, data) {
             <h5>Camp Name: ${event['Camp Name']}</h5>
             </br>
             <p>Type: ${event['Type']}</p>
+            <p>Located at: ${event['Located at Camp']}</p>
             <p>Description: ${event['Description']}</p>
             <p>Dates and Times: ${event['Date and Time'].join(', ')}</p>
             </br>
@@ -47,3 +43,4 @@ function displayEventDetails(eventName, data) {
         `);
     }
 }
+
