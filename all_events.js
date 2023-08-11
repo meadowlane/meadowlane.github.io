@@ -8,7 +8,9 @@ $(document).ready(function() {
         const options = {
             keys: [
             { name: 'Event Name', weight: 3 },  // A weight of 2 means it's twice as important
-            { name: 'Description', weight: 1 }  // Default weight is 1
+            { name: 'Camp Name', weight: 2},
+            { name: 'Description', weight: 1 },
+            { name: 'Date and Time', weight: 1}
             ],
             threshold: 0.25,
             includeScore: true
