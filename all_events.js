@@ -59,7 +59,7 @@ function displayEventDetails(eventName, data) {
             </br>
             <p>Type: ${event['Type']}</p>
             <p>Description: ${event['Description']}</p>
-            <p>Dates and Times: ${event['Date and Time'].join(', ')}</p>
+            <p>Dates and Times: <br>${event['Date and Time'].join('<br>')}</p>
             </br>
             <a href="${event['Full Details']}" target="_blank">Full Details</a>
         `);
