@@ -24,9 +24,9 @@ $(document).ready(function() {
                 $('html, body').animate({
                     scrollTop: $("#eventDetails").offset().top - 20
                 }, 300);
-                setTimeout(() => {
-                    $(this).blur();
-                }, 100);
+
+                // Blur right away without setTimeout
+                $(this).blur();
             }
         });
 
