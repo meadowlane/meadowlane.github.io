@@ -81,7 +81,7 @@ function displayEvents(camps) {
             eventsDiv.innerHTML += `
                 <div class="card mt-2">
                     <div class="card-body">
-                        <h5>Event: ${event["Event Name"]}</h4>
+                        <h5>Event: ${event["Event Name"]}</h5>
                         <h5>Camp: ${camp["Camp Name"]}</h5>
                         <h5>Location: ${camp["Location"]}</h5>
                         <br>

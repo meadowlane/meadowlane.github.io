@@ -46,12 +46,13 @@ $(document).ready(function() {
             $('#search').val('').trigger('input').focus();
         });
 
-        function displayEventDetails(eventName, data) {
-            const event = data.find(e => e['Event Name'] === eventName);
-            if (event) {
-                $('#eventDetails').css('display', 'block');
-                $('#eventDetails').html(`
-                    <h5>Event: ${event['Event Name']}</h3>
+function displayEventDetails(eventName, data) {
+    const event = data.find(e => e['Event Name'] === eventName);
+    if (event) {
+        $('#eventDetails').css('display', 'block');
+        $('#eventDetails').html(`
+        <div class="card-body">
+                    <h5>Event: ${event['Event Name']}</h5>
                     <h5>Camp: ${event['Camp Name']}</h5>
                     <h5>Location: ${event['Location']}</h5>
                     <br>
@@ -59,12 +60,15 @@ $(document).ready(function() {
                     <p>${event['Date and Time'].join('<br>')}</p>
                     <h6>Type:</h6>
                     <p>${event['Type']}</p>
+                    <h6>Located at Camp:</h6>
+                    <p>${event["Located at Camp"]}</p>
                     <h6>Description:</h6>
                     <p>${event['Description']}</p>
                     <br>
                     <a href="${event['Full Details']}" target="_blank">Full Details</a>
-                `);
-            }
-        }
+        </div>`);
+    }
+}
+
     });
 });
