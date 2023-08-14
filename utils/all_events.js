@@ -49,7 +49,6 @@ $(document).ready(function() {
 function displayEventDetails(eventName, data) {
     const event = data.find(e => e['Event Name'] === eventName);
     if (event) {
-        $('#eventDetails').css('display', 'block');
         $('#eventDetails').html(`
         <div class="card-body">
                     <h5>Event: ${event['Event Name']}</h5>
