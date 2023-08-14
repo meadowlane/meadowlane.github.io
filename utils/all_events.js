@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.getJSON('all_events.json', function(data) {
+    $.getJSON('data/all_events.json', function(data) {
         const options = {
             keys: [
                 { name: 'Event Name', weight: 3 },
