@@ -51,14 +51,17 @@ $(document).ready(function() {
             if (event) {
                 $('#eventDetails').css('display', 'block');
                 $('#eventDetails').html(`
-                    <h3>${event['Event Name']}</h3>
+                    <h5>Event: ${event['Event Name']}</h3>
+                    <h5>Camp: ${event['Camp Name']}</h5>
                     <h5>Location: ${event['Location']}</h5>
-                    <h5>Camp Name: ${event['Camp Name']}</h5>
-                    </br>
-                    <p>Type: ${event['Type']}</p>
-                    <p>Description: ${event['Description']}</p>
-                    <p>Dates and Times: <br>${event['Date and Time'].join('<br>')}</p>
-                    </br>
+                    <br>
+                    <h6>Dates and Times:</h6>
+                    <p>${event['Date and Time'].join('<br>')}</p>
+                    <h6>Type:</h6>
+                    <p>${event['Type']}</p>
+                    <h6>Description:</h6>
+                    <p>${event['Description']}</p>
+                    <br>
                     <a href="${event['Full Details']}" target="_blank">Full Details</a>
                 `);
             }
