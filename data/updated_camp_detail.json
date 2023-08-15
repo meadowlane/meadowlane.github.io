@@ -1,7 +1,7 @@
 [
     {
         "Camp Name": "!BRC Ski Resort!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Starfucks Coffee Bar",
@@ -349,7 +349,7 @@
     },
     {
         "Camp Name": "3rd Alternative: Jail of Hedone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cool Jail of Delights",
@@ -427,7 +427,7 @@
     },
     {
         "Camp Name": "706 Tribe",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cool Mist, Chinese Massage & Games",
@@ -567,7 +567,7 @@
     },
     {
         "Camp Name": "A Shack of Sit",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Singer's Karaoke Extravaganza",
@@ -687,7 +687,7 @@
     },
     {
         "Camp Name": "A Transformation Station",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Morning Yoga",
@@ -765,7 +765,7 @@
     },
     {
         "Camp Name": "ACatemy Ltd",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Craft a cat mask or toy",
@@ -786,26 +786,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/41655/"
             }
         ]
-    },
-    {
-        "Camp Name": "ANDAS",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
-        "Camp Name": "ATypical Forest",
-        "Location": "3:45 & E",
-        "Events": []
-    },
-    {
-        "Camp Name": "AWAKE",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
-        "Camp Name": "Abraxas",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Academy of Arts and Sciences",
@@ -923,7 +903,7 @@
     },
     {
         "Camp Name": "Acrobatica Galactica",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Silly Beginner Acrobatics",
@@ -1699,7 +1679,7 @@
     },
     {
         "Camp Name": "AerialKnotics",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "AerialKnotics Basic Rope Bondage",
@@ -1899,7 +1879,7 @@
     },
     {
         "Camp Name": "Air Phoenix",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Aerial Alchemy: Yoga/Movement/Fitness",
@@ -2009,7 +1989,7 @@
     },
     {
         "Camp Name": "Alchemy Stop",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Limoncello Aperitivo",
@@ -2035,7 +2015,7 @@
     },
     {
         "Camp Name": "Ali Bar-Bar",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ali Bar-Bar Cocktails & Dance",
@@ -2105,7 +2085,7 @@
     },
     {
         "Camp Name": "Alter Ego",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Coffee, Chai & Chill",
@@ -2133,7 +2113,7 @@
     },
     {
         "Camp Name": "Alternative Energy Zone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Figure Drawing",
@@ -2177,7 +2157,7 @@
     },
     {
         "Camp Name": "AmaZONE Wisdom",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Discussion Panel - Mind, Body and Spirit",
@@ -2353,7 +2333,7 @@
     },
     {
         "Camp Name": "Anahasana Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Networking Societies: Bridging Our Communities",
@@ -2676,11 +2656,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/41098/"
             }
         ]
-    },
-    {
-        "Camp Name": "Anonymous",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Anonymous Village",
@@ -3016,7 +2991,7 @@
     },
     {
         "Camp Name": "Antea fun",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Wishing Booth",
@@ -3040,7 +3015,7 @@
     },
     {
         "Camp Name": "Apocalypse Wow",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Iced Coffee in the Disco Lounge",
@@ -3122,7 +3097,7 @@
     },
     {
         "Camp Name": "Apokalyptika",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "24 Hour Lounge",
@@ -3154,7 +3129,7 @@
     },
     {
         "Camp Name": "Apotheosis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Integration Station: From Human to Divine",
@@ -3314,7 +3289,7 @@
     },
     {
         "Camp Name": "Art of Steam",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Guided Steam ceremony",
@@ -3339,16 +3314,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44833/"
             }
         ]
-    },
-    {
-        "Camp Name": "Artery Pavilion",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
-        "Camp Name": "Assland",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Astro Cats",
@@ -3428,7 +3393,7 @@
     },
     {
         "Camp Name": "At the Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Jewelry Making",
@@ -3614,7 +3579,7 @@
     },
     {
         "Camp Name": "Automatic Subconscious",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beer Toss",
@@ -3686,7 +3651,7 @@
     },
     {
         "Camp Name": "Avant Card",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Horse Races and Other Card Games",
@@ -3714,7 +3679,7 @@
     },
     {
         "Camp Name": "Avant Garden",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Veg Out",
@@ -4138,7 +4103,7 @@
     },
     {
         "Camp Name": "BEER:30",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "BEER:30's Craft beer on tap!",
@@ -4245,11 +4210,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43362/"
             }
         ]
-    },
-    {
-        "Camp Name": "BLD",
-        "Location": "6:15 & E",
-        "Events": []
     },
     {
         "Camp Name": "BRAIN FREEZE CAMP",
@@ -4383,7 +4343,7 @@
     },
     {
         "Camp Name": "BRC Cosmic Comedy Club (BRCCCC)",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Stand Up Comedy Show",
@@ -4599,7 +4559,7 @@
     },
     {
         "Camp Name": "BRUNCH Away Republic",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Playa Name Generator",
@@ -4787,7 +4747,7 @@
     },
     {
         "Camp Name": "Bacchus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Wine Tasting",
@@ -4827,7 +4787,7 @@
     },
     {
         "Camp Name": "Back Porch Block Party",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "DJ Dance Party",
@@ -5001,7 +4961,7 @@
     },
     {
         "Camp Name": "Bad Education",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Homecoming Dance",
@@ -5066,11 +5026,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44100/"
             }
         ]
-    },
-    {
-        "Camp Name": "Bad Idea",
-        "Location": "4:00 & F",
-        "Events": []
     },
     {
         "Camp Name": "Badlands Bordello",
@@ -5154,7 +5109,7 @@
     },
     {
         "Camp Name": "Bagel Daddy",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bagels and Beats",
@@ -5184,7 +5139,7 @@
     },
     {
         "Camp Name": "Baggage Check",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Check Emotional Baggage and Create-A-Creature",
@@ -5488,7 +5443,7 @@
     },
     {
         "Camp Name": "Barbots: Baby Needs A Break",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Just Fur\u2019k It Party",
@@ -5505,11 +5460,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43759/"
             }
         ]
-    },
-    {
-        "Camp Name": "Base Camp",
-        "Location": "7:15 & B",
-        "Events": []
     },
     {
         "Camp Name": "BatCave",
@@ -5541,7 +5491,7 @@
     },
     {
         "Camp Name": "Beardhaus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Daytime Disco & Beardcare",
@@ -5563,7 +5513,7 @@
     },
     {
         "Camp Name": "Beat It! Not Your Camp!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Morning Star Cafe",
@@ -5775,7 +5725,7 @@
     },
     {
         "Camp Name": "Bestiality Fantasy Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bestiality Fantasy Camp: Feral Fantasies Unleashed",
@@ -5797,7 +5747,7 @@
     },
     {
         "Camp Name": "Better Bitstream Bureau",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Experience the Narralith",
@@ -5825,7 +5775,7 @@
     },
     {
         "Camp Name": "Better With Butter",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "MOOP Patrol",
@@ -5849,7 +5799,7 @@
     },
     {
         "Camp Name": "Big Ding Energy",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Wing Lessons",
@@ -5900,11 +5850,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44904/"
             }
         ]
-    },
-    {
-        "Camp Name": "Big Idea",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Billy Madison's Tent",
@@ -6078,7 +6023,7 @@
     },
     {
         "Camp Name": "Black Hole Literary Society",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Take Your Picture With Our Stellar Black Holes",
@@ -6310,7 +6255,7 @@
     },
     {
         "Camp Name": "Black Rock Boat Rentals",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Boat Rentals",
@@ -6474,7 +6419,7 @@
     },
     {
         "Camp Name": "Black Rock City Aquarium",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Feeding Time at the Aquarium",
@@ -6512,7 +6457,7 @@
     },
     {
         "Camp Name": "Black Rock City Community College",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Uncertainty in Life and Quantum Mechanics",
@@ -6764,7 +6709,7 @@
     },
     {
         "Camp Name": "Black Rock French Quarter",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Jazz Funeral for the Man",
@@ -6798,7 +6743,7 @@
     },
     {
         "Camp Name": "Black Rock Labs The Expanse",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Playa Sustainability Tour on Art Car Abraxas",
@@ -7030,7 +6975,7 @@
     },
     {
         "Camp Name": "Blintz Co",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fresh Hot Blintzes",
@@ -7088,7 +7033,7 @@
     },
     {
         "Camp Name": "BlockHaus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Steamy Hot Sexy Party on BlockHaus",
@@ -7203,11 +7148,6 @@
         ]
     },
     {
-        "Camp Name": "Bohemia",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Boom Boom Womb",
         "Location": "5:15 & D",
         "Events": [
@@ -7245,7 +7185,7 @@
     },
     {
         "Camp Name": "Boots & Cats",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Boots & Tats Temporary Tattoos",
@@ -7377,7 +7317,7 @@
     },
     {
         "Camp Name": "Booty Worship",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bad Tarot Card reading",
@@ -7439,7 +7379,7 @@
     },
     {
         "Camp Name": "Brain Candy",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Candy Land Chill Space",
@@ -7629,7 +7569,7 @@
     },
     {
         "Camp Name": "Brasa: Food and Fire",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Brasa: food touched by fire",
@@ -7927,7 +7867,7 @@
     },
     {
         "Camp Name": "Buddha Lounge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Yoga",
@@ -8027,7 +7967,7 @@
     },
     {
         "Camp Name": "Buffer Zone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Buff Your Aches Away",
@@ -8055,7 +7995,7 @@
     },
     {
         "Camp Name": "Burner Brown",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cock Fighting",
@@ -8301,7 +8241,7 @@
     },
     {
         "Camp Name": "Burning Man County Croquet Club",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Studio 5'4 Discotheque",
@@ -8355,7 +8295,7 @@
     },
     {
         "Camp Name": "Burning Man Goddess Temple",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Goddess Temple: The Festivities",
@@ -8438,11 +8378,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44795/"
             }
         ]
-    },
-    {
-        "Camp Name": "Burning Questions",
-        "Location": "7:45 & G",
-        "Events": []
     },
     {
         "Camp Name": "BurningShip",
@@ -8766,7 +8701,7 @@
     },
     {
         "Camp Name": "CUBHOUSE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Breakfast with Beyonc\u00e9",
@@ -8800,7 +8735,7 @@
     },
     {
         "Camp Name": "Cabana Club",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Afternoon Delights at the Cabana Club",
@@ -8854,7 +8789,7 @@
     },
     {
         "Camp Name": "Caffeine Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Caffeine Oasis Sun Tea and Cold Brew Coffee",
@@ -8882,7 +8817,7 @@
     },
     {
         "Camp Name": "Camp ASL Support Services HUB",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "ASL Interpreting on Playa",
@@ -8914,7 +8849,7 @@
     },
     {
         "Camp Name": "Camp BUI",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pineapple Upside Down Cake Thursday",
@@ -8934,7 +8869,7 @@
     },
     {
         "Camp Name": "Camp Be Bothered",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot \u2018n Bothered Sunset Dance Party",
@@ -8968,7 +8903,7 @@
     },
     {
         "Camp Name": "Camp Bean Water",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Morning Coffee Hang",
@@ -9092,7 +9027,7 @@
     },
     {
         "Camp Name": "Camp Calico",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Coffee & Tea",
@@ -9268,7 +9203,7 @@
     },
     {
         "Camp Name": "Camp Clusterfuck",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Uranus Rising: A Sensual Space Circus",
@@ -10276,7 +10211,7 @@
     },
     {
         "Camp Name": "Camp EAT Me",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Picklebacks with Nickelback!",
@@ -10296,7 +10231,7 @@
     },
     {
         "Camp Name": "Camp Eddy Out",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "River Olympics Competition & Party!",
@@ -10560,7 +10495,7 @@
     },
     {
         "Camp Name": "Camp Fruits And Nuts",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Camp Fruits & Nuts Salon/Trivia",
@@ -10674,7 +10609,7 @@
     },
     {
         "Camp Name": "Camp Here",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Here-n-Burn Breakfast Drive Thru",
@@ -10708,7 +10643,7 @@
     },
     {
         "Camp Name": "Camp Here",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Here-n-Burn Breakfast Drive Thru",
@@ -10742,7 +10677,7 @@
     },
     {
         "Camp Name": "Camp Hot Cheeks",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sake Bomb Sunday",
@@ -10878,7 +10813,7 @@
     },
     {
         "Camp Name": "Camp Lazer Brigade",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot Gl-Ass Coffee",
@@ -10918,7 +10853,7 @@
     },
     {
         "Camp Name": "Camp LoveAmorium",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dusty Daycare",
@@ -11366,7 +11301,7 @@
     },
     {
         "Camp Name": "Camp No Name Yeti",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Mythical Creature Dance Party",
@@ -11492,7 +11427,7 @@
     },
     {
         "Camp Name": "Camp One More",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Canadian Breakfast at Excellent Choice Bar",
@@ -11528,7 +11463,7 @@
     },
     {
         "Camp Name": "Camp Orange",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Chocolate-covered frozen bananas and happy hour",
@@ -11638,7 +11573,7 @@
     },
     {
         "Camp Name": "Camp Piper",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pre-Bunny March Party",
@@ -11658,7 +11593,7 @@
     },
     {
         "Camp Name": "Camp PlayApology",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "El Wire and LED Master Class",
@@ -11826,7 +11761,7 @@
     },
     {
         "Camp Name": "Camp Questionmark",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bass Culture Exploration Night @ Camp?",
@@ -11874,7 +11809,7 @@
     },
     {
         "Camp Name": "Camp Scone Fucker",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Let\u2019s Taco Bout Scones",
@@ -12236,7 +12171,7 @@
     },
     {
         "Camp Name": "Camp TeaPunk",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot Dog Improv Poetry",
@@ -12300,7 +12235,7 @@
     },
     {
         "Camp Name": "Camp Tidy",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tea And Porn",
@@ -12338,7 +12273,7 @@
     },
     {
         "Camp Name": "Camp Walter",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "AZ Burners Meet Up and Art Car Tour",
@@ -12358,7 +12293,7 @@
     },
     {
         "Camp Name": "Camp Wineaux",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Estate & Reserve Nighttime Extravaganzza",
@@ -12392,7 +12327,7 @@
     },
     {
         "Camp Name": "Camp Yellow Umbrella",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The Grounding Cave",
@@ -12422,7 +12357,7 @@
     },
     {
         "Camp Name": "Camp ZaZen",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cleanse. CONFESS. Conspire. Connect",
@@ -12476,7 +12411,7 @@
     },
     {
         "Camp Name": "Camp-Lemon-Tree",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pick-Me-Up-Party",
@@ -12496,7 +12431,7 @@
     },
     {
         "Camp Name": "Campoline",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fuck Your Green Energy",
@@ -12628,7 +12563,7 @@
     },
     {
         "Camp Name": "Campus Callosum",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ask a Drunk(?) Scientist at our Placebo Bar",
@@ -12652,7 +12587,7 @@
     },
     {
         "Camp Name": "Capricious Cat Herding",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Art your Burn",
@@ -12700,7 +12635,7 @@
     },
     {
         "Camp Name": "Captain Pump's Raiders",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "RaiderCon VIII",
@@ -12752,7 +12687,7 @@
     },
     {
         "Camp Name": "Casa de la Rumba",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Experience the Thrill of Our Casino Night!",
@@ -12828,7 +12763,7 @@
     },
     {
         "Camp Name": "Catsfish",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "H)(me Warming + Karaoke Party",
@@ -12848,7 +12783,7 @@
     },
     {
         "Camp Name": "Celestial Bodies",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Woof And Wiskers",
@@ -13024,7 +12959,7 @@
     },
     {
         "Camp Name": "Celestial Sideshow",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Chrio-Chi: Nervous System Chiropractic Care",
@@ -13191,11 +13126,6 @@
         ]
     },
     {
-        "Camp Name": "Census",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Cereal Thrillers",
         "Location": "2:30 & B",
         "Events": [
@@ -13229,7 +13159,7 @@
     },
     {
         "Camp Name": "Chai Lounge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Chai Lounge Bar Dream Portal & Spiritual Healing",
@@ -13257,7 +13187,7 @@
     },
     {
         "Camp Name": "Chameleon Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Get on my lawn!",
@@ -13453,7 +13383,7 @@
     },
     {
         "Camp Name": "Chatterbox",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cosmic Conversations on Conscious Meditations",
@@ -13481,7 +13411,7 @@
     },
     {
         "Camp Name": "Cheezy Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Naughty gooey Cheezy goodness",
@@ -13645,7 +13575,7 @@
     },
     {
         "Camp Name": "Church of Crust",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Grilled Cheesus at The Church of Crust",
@@ -13667,7 +13597,7 @@
     },
     {
         "Camp Name": "Circle J Inconvenience Store",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Circle J Inconvenience Store",
@@ -13697,7 +13627,7 @@
     },
     {
         "Camp Name": "Clevian Circularity",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Daily Speed Meeting",
@@ -13726,13 +13656,8 @@
         ]
     },
     {
-        "Camp Name": "Cloud 9",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Club Neu Verboten",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Magic Mushroom Mixer",
@@ -13774,7 +13699,7 @@
     },
     {
         "Camp Name": "ClusterDust",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bird Watching",
@@ -13886,7 +13811,7 @@
     },
     {
         "Camp Name": "Cockpit",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Green Juice and Cold Brews",
@@ -13952,7 +13877,7 @@
     },
     {
         "Camp Name": "Cold Yogis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "DMT Breathing at Sunset. High on air.",
@@ -14040,7 +13965,7 @@
     },
     {
         "Camp Name": "Combat Zone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot Food, Cold Beats",
@@ -14313,13 +14238,8 @@
         ]
     },
     {
-        "Camp Name": "Complete",
-        "Location": "2:30 & E",
-        "Events": []
-    },
-    {
         "Camp Name": "ConTent",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beetlejuice Beach Party + Volleyball Tournament",
@@ -14391,7 +14311,7 @@
     },
     {
         "Camp Name": "Congee Central",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "BEST congee on Playa",
@@ -14433,7 +14353,7 @@
     },
     {
         "Camp Name": "Contact Collective",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Contact Improv - Labs",
@@ -14915,7 +14835,7 @@
     },
     {
         "Camp Name": "Cosmic Curanderos Cafe",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cosmic Cafe",
@@ -14993,7 +14913,7 @@
     },
     {
         "Camp Name": "Cosmic Dancer",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tantric Thai Yoga Massage Workshop",
@@ -15341,7 +15261,7 @@
     },
     {
         "Camp Name": "Cosmic Llama",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Music With Words Dance Party",
@@ -15431,7 +15351,7 @@
     },
     {
         "Camp Name": "Cosplay Central Casting",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Barbie and Ken Cosplay Costumes.",
@@ -15830,13 +15750,8 @@
         ]
     },
     {
-        "Camp Name": "Counter Culture",
-        "Location": "7:15 & D",
-        "Events": []
-    },
-    {
         "Camp Name": "Covered-in-Bees!!!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Buzz & Brush",
@@ -15872,7 +15787,7 @@
     },
     {
         "Camp Name": "Cozy Cat Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Night Kit-Tea",
@@ -16058,7 +15973,7 @@
     },
     {
         "Camp Name": "Crossroads",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Crossroads After Party",
@@ -16245,11 +16160,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/42701/"
             }
         ]
-    },
-    {
-        "Camp Name": "Cult of the Angry Tree",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Cult of the Magic Lady",
@@ -16613,7 +16523,7 @@
     },
     {
         "Camp Name": "Dante's InFURno",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Disco InFURno",
@@ -16939,7 +16849,7 @@
     },
     {
         "Camp Name": "Deadbeat Club",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Squire Trance",
@@ -16983,7 +16893,7 @@
     },
     {
         "Camp Name": "Deaf Granny's Kitchen",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Lock in the Lessons",
@@ -17071,7 +16981,7 @@
     },
     {
         "Camp Name": "Death Guild Thunderdome",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Church or Cage: Sunset(ish) Sermon",
@@ -17091,7 +17001,7 @@
     },
     {
         "Camp Name": "Decadance",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Decadance Dinner Club: Anadolu Soul",
@@ -17113,7 +17023,7 @@
     },
     {
         "Camp Name": "Decadent Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "\"Slack Jaw\" Dance Off",
@@ -17367,7 +17277,7 @@
     },
     {
         "Camp Name": "Dicey Side Quests",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dice Rolls & Drinks",
@@ -17453,7 +17363,7 @@
     },
     {
         "Camp Name": "Disco Porch",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Disco Ducktacular",
@@ -17588,13 +17498,8 @@
         ]
     },
     {
-        "Camp Name": "Divine Feminine",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Doggenheim Gallery",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dog Cafe",
@@ -17646,7 +17551,7 @@
     },
     {
         "Camp Name": "Dogs n recreation",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Boardgames 'n more with the DogsNRecreationers",
@@ -18014,7 +17919,7 @@
     },
     {
         "Camp Name": "Dragons of Eden",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Nova",
@@ -18045,13 +17950,8 @@
         ]
     },
     {
-        "Camp Name": "Dream Inn",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Dreamery",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dream Swap at the Dreamery",
@@ -18073,7 +17973,7 @@
     },
     {
         "Camp Name": "Duck Pond",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beauty in Duckness",
@@ -18145,7 +18045,7 @@
     },
     {
         "Camp Name": "Dusty Booty Ranch",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fifth Annual Impromptu Questionable Meat Bonanza",
@@ -18945,7 +18845,7 @@
     },
     {
         "Camp Name": "Elvis Wedding Chapel & Gardens",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Get hitched, Elvis style!",
@@ -19003,7 +18903,7 @@
     },
     {
         "Camp Name": "Emergence",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Black Rock City IDs",
@@ -19028,11 +18928,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/41834/"
             }
         ]
-    },
-    {
-        "Camp Name": "Emergency",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Enchanted Booty Forest",
@@ -19100,7 +18995,7 @@
     },
     {
         "Camp Name": "Enchant\u00e9",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sobriety Checkpoint",
@@ -19136,7 +19031,7 @@
     },
     {
         "Camp Name": "End of the Line",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Gold Country Happy Hour",
@@ -19199,11 +19094,6 @@
         ]
     },
     {
-        "Camp Name": "EntheoGeneration",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Entheos",
         "Location": "2:45 & Esplanade",
         "Events": [
@@ -19237,7 +19127,7 @@
     },
     {
         "Camp Name": "Entheos Community Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Heart Opening Hypnosis",
@@ -19256,13 +19146,8 @@
         ]
     },
     {
-        "Camp Name": "Essence",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Eurotrash Sangria Bar",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Eurotrash Sundown Sangria",
@@ -19287,11 +19172,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/42203/"
             }
         ]
-    },
-    {
-        "Camp Name": "Expanse",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "F.U.Ego Stage Bar & Lounge",
@@ -19339,7 +19219,7 @@
     },
     {
         "Camp Name": "FAFA Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "International House of Poetry",
@@ -19366,13 +19246,8 @@
         ]
     },
     {
-        "Camp Name": "FERN",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "FUC-Kezhan",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tattoo Station",
@@ -19426,7 +19301,7 @@
     },
     {
         "Camp Name": "FUN-DO BAR",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "FUN-DO's Fondue Happy Hour!",
@@ -19522,7 +19397,7 @@
     },
     {
         "Camp Name": "Fabulous Disaster",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Gigsville Branding Happy Hour",
@@ -19766,7 +19641,7 @@
     },
     {
         "Camp Name": "Fever Dream Theater",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "A Va-odd-Villian Variety Show!",
@@ -19818,7 +19693,7 @@
     },
     {
         "Camp Name": "Fire Lounge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Burning Man Got Talent! Shower Show",
@@ -19864,7 +19739,7 @@
     },
     {
         "Camp Name": "Flaming Lotus Girls",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fire Art Effects Poofer 101",
@@ -19934,7 +19809,7 @@
     },
     {
         "Camp Name": "Flat Tire Cafe",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bike Repair and Cold Brew Coffee",
@@ -19962,7 +19837,7 @@
     },
     {
         "Camp Name": "Flow and Glow SPAce",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Go With the Flow",
@@ -20038,7 +19913,7 @@
     },
     {
         "Camp Name": "FlybyNyte",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Aviation Themed Portraits",
@@ -20118,7 +19993,7 @@
     },
     {
         "Camp Name": "Flying Falafels",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Flying Falafels\u2019 Annual Mediterranean Extravaganza",
@@ -20138,7 +20013,7 @@
     },
     {
         "Camp Name": "Foam Home presents Foamenagerie",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "EntheoGeneration",
@@ -20162,7 +20037,7 @@
     },
     {
         "Camp Name": "Found It!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cloud 9 Happy Hour",
@@ -20232,7 +20107,7 @@
     },
     {
         "Camp Name": "Free Photography Zone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Free Photography Zone",
@@ -20343,13 +20218,8 @@
         ]
     },
     {
-        "Camp Name": "French Maid Brigade",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "French Manila",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Apres Ski Party",
@@ -20399,7 +20269,7 @@
     },
     {
         "Camp Name": "Friendlandia",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Learn to Make Friendship Bracelets!",
@@ -20447,7 +20317,7 @@
     },
     {
         "Camp Name": "Friendly Society",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sunny Dingalings",
@@ -20657,7 +20527,7 @@
     },
     {
         "Camp Name": "Funky Monkey Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Squirt Party!",
@@ -20674,11 +20544,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43415/"
             }
         ]
-    },
-    {
-        "Camp Name": "Funky Town",
-        "Location": "10:00 & C",
-        "Events": []
     },
     {
         "Camp Name": "Furniture Car Rally Camp",
@@ -20827,13 +20692,8 @@
         ]
     },
     {
-        "Camp Name": "G's",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "GLAMCOCKS",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pass That Double Dutch!",
@@ -21043,7 +20903,7 @@
     },
     {
         "Camp Name": "Ganesh Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Facilitated Storytelling",
@@ -21189,7 +21049,7 @@
     },
     {
         "Camp Name": "Gender Blender",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pre-Pleasure Party Cock&Tail Magick Hour",
@@ -21451,7 +21311,7 @@
     },
     {
         "Camp Name": "Glam Clams",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Drag Performance",
@@ -21507,7 +21367,7 @@
     },
     {
         "Camp Name": "Glorious Paint Hole",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Glorious Morning Yoga",
@@ -21603,7 +21463,7 @@
     },
     {
         "Camp Name": "Glowskull Asylum Int'l",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fake Orgasm Competition",
@@ -21664,11 +21524,6 @@
         ]
     },
     {
-        "Camp Name": "Gnome Sloth Gnome",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Gnomeman's Land",
         "Location": "3:15 & H",
         "Events": [
@@ -21687,11 +21542,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/45988/"
             }
         ]
-    },
-    {
-        "Camp Name": "Golden Guy Alley",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Good Grief",
@@ -21794,13 +21644,8 @@
         ]
     },
     {
-        "Camp Name": "Grand Opening",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Grateful Floyd",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cult Movie Night",
@@ -21890,7 +21735,7 @@
     },
     {
         "Camp Name": "Groove Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dance Class!",
@@ -21912,7 +21757,7 @@
     },
     {
         "Camp Name": "Gymnasium",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Naked Oil Wrestling",
@@ -22182,7 +22027,7 @@
     },
     {
         "Camp Name": "HEX Collective",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "HEX Coffee/Tea",
@@ -22434,7 +22279,7 @@
     },
     {
         "Camp Name": "HYPERSPACE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Come get lost in our Mural Maze!",
@@ -22714,7 +22559,7 @@
     },
     {
         "Camp Name": "Halloween Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Treat or Treating",
@@ -22758,7 +22603,7 @@
     },
     {
         "Camp Name": "Hanging Gardens of BRC",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "7th Annual Garden Party",
@@ -22952,7 +22797,7 @@
     },
     {
         "Camp Name": "Harmonic",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Harmonic Synthwave Bar!",
@@ -22978,7 +22823,7 @@
     },
     {
         "Camp Name": "Harmonic Convergence Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "After the Temple Burn Farewell Coffee & Pumaccinos",
@@ -23034,7 +22879,7 @@
     },
     {
         "Camp Name": "HealAF",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tantric Massage Class",
@@ -23082,7 +22927,7 @@
     },
     {
         "Camp Name": "Healing Foot Wash Life Truth Love",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Healing Foot Wash \u2013 Life Truth Love",
@@ -23122,7 +22967,7 @@
     },
     {
         "Camp Name": "Heart of Now",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Heart of Now Workshop",
@@ -23231,13 +23076,8 @@
         ]
     },
     {
-        "Camp Name": "Heavy Petting Zoo",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "HeckleBerries",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "A HeckleBerry Blue(berry) Ball",
@@ -23421,7 +23261,7 @@
     },
     {
         "Camp Name": "HexMix",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Spa",
@@ -23449,7 +23289,7 @@
     },
     {
         "Camp Name": "Hibernaculum",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dream Harvesting Workshop",
@@ -23499,7 +23339,7 @@
     },
     {
         "Camp Name": "High Desert Cinema",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Movie Night! Hot Buttered Popcorn & Candy!",
@@ -23527,7 +23367,7 @@
     },
     {
         "Camp Name": "Hippocampus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Socially Appropriate Yawn Day",
@@ -23627,7 +23467,7 @@
     },
     {
         "Camp Name": "Holi High Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Neon Body Paint by Cannon Blast",
@@ -23649,7 +23489,7 @@
     },
     {
         "Camp Name": "Home Sweet Dome",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Silent Disco",
@@ -23669,7 +23509,7 @@
     },
     {
         "Camp Name": "Honey Barrel",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Honey wine tasting",
@@ -23695,7 +23535,7 @@
     },
     {
         "Camp Name": "Honey Puddle",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Virgin Conversions Dance Dance Dance",
@@ -23843,7 +23683,7 @@
     },
     {
         "Camp Name": "Honkers Harbor",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "First Light Sound Bath",
@@ -23879,7 +23719,7 @@
     },
     {
         "Camp Name": "Hook Up Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Anahasana Welcoming Campfire",
@@ -23951,7 +23791,7 @@
     },
     {
         "Camp Name": "Hot Mayo",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Irish Car Bomb party",
@@ -24009,7 +23849,7 @@
     },
     {
         "Camp Name": "Hotel California",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Motel California\u2019s Dusty New Years Eve Party",
@@ -24245,7 +24085,7 @@
     },
     {
         "Camp Name": "House of Lepus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Unwinding your Inner Rabbit Hole",
@@ -24267,7 +24107,7 @@
     },
     {
         "Camp Name": "House of Maslow",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Espresso Yourself Dance Party",
@@ -24301,7 +24141,7 @@
     },
     {
         "Camp Name": "Howzit",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hag's Brew",
@@ -24323,7 +24163,7 @@
     },
     {
         "Camp Name": "Hunty",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Lip Sync Soir\u00e9e",
@@ -24567,7 +24407,7 @@
     },
     {
         "Camp Name": "Hushville Free Library",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hushville Free Library",
@@ -24611,7 +24451,7 @@
     },
     {
         "Camp Name": "Hydration Station",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hydration Station",
@@ -24641,7 +24481,7 @@
     },
     {
         "Camp Name": "Hygge Heaven",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Midsummer Night's Dream Party",
@@ -24661,7 +24501,7 @@
     },
     {
         "Camp Name": "I Love Elephants",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Android Jones Art Exhibit",
@@ -25205,7 +25045,7 @@
     },
     {
         "Camp Name": "IDEATE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "PLAYAWIDE COMPOST PROGRAM",
@@ -25311,7 +25151,7 @@
     },
     {
         "Camp Name": "IHOTT",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Waffle Olympic Pep Rally for IHOTT",
@@ -25437,7 +25277,7 @@
     },
     {
         "Camp Name": "Ice Ice Maybe",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sun-Spun Smoothies",
@@ -25461,7 +25301,7 @@
     },
     {
         "Camp Name": "Icy Hands CHILLZONE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Icy Hands Experience",
@@ -25489,7 +25329,7 @@
     },
     {
         "Camp Name": "Ikigai",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ikigai Dusty Dance",
@@ -25918,11 +25758,6 @@
         ]
     },
     {
-        "Camp Name": "Infinity",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Inflatable Wildlife",
         "Location": "7:45 & D",
         "Events": [
@@ -26015,13 +25850,8 @@
         ]
     },
     {
-        "Camp Name": "Inflation Station",
-        "Location": "9:30 & F",
-        "Events": []
-    },
-    {
         "Camp Name": "Insomnophilia",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cristal ShanDeLeer\u2019s CaveRave for NocTURNT Animals",
@@ -26055,7 +25885,7 @@
     },
     {
         "Camp Name": "Inspiration Oasis",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dragong Hot Sake Bar",
@@ -26179,7 +26009,7 @@
     },
     {
         "Camp Name": "Intergalactic Sasquatch Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "ISV Arcade",
@@ -26285,7 +26115,7 @@
     },
     {
         "Camp Name": "Interzone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Library Loud Hours",
@@ -26490,11 +26320,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/42620/"
             }
         ]
-    },
-    {
-        "Camp Name": "Jellyfish",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Jipangu",
@@ -26720,7 +26545,7 @@
     },
     {
         "Camp Name": "Jungle Oddity",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Oddball Symposia",
@@ -26748,7 +26573,7 @@
     },
     {
         "Camp Name": "KAHVE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Turkish Coffee and Coffee-ground Readings",
@@ -26796,7 +26621,7 @@
     },
     {
         "Camp Name": "KISS",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Yoga w/ Janet",
@@ -27630,7 +27455,7 @@
     },
     {
         "Camp Name": "Kerosene",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Laser Engraving",
@@ -27654,7 +27479,7 @@
     },
     {
         "Camp Name": "Kidsville",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Temple Tribute and Trek: A visit with the Temple G",
@@ -27673,13 +27498,8 @@
         ]
     },
     {
-        "Camp Name": "Knot Sure",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Knotty By Nature",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sober Spa Party",
@@ -27741,7 +27561,7 @@
     },
     {
         "Camp Name": "Kosmic Kamels",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Kosmic Oasis",
@@ -27831,7 +27651,7 @@
     },
     {
         "Camp Name": "Kumaya",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tea n' Tunes",
@@ -28023,7 +27843,7 @@
     },
     {
         "Camp Name": "LIMINAL LABS",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "LIMINAL LABS' INTERSPECIES WEDDING CHAPEL",
@@ -28071,7 +27891,7 @@
     },
     {
         "Camp Name": "La Calaca Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Brushing Man! Teeth Brushing and Pole Dancing!",
@@ -28203,7 +28023,7 @@
     },
     {
         "Camp Name": "Lamplighters Chapel",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Volunteer With Lamplighters",
@@ -28315,7 +28135,7 @@
     },
     {
         "Camp Name": "LandPhil",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Junkyard Wildlife Painting",
@@ -28353,7 +28173,7 @@
     },
     {
         "Camp Name": "Las Brujas",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Laser Cats Happy Hour",
@@ -28380,11 +28200,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43598/"
             }
         ]
-    },
-    {
-        "Camp Name": "Last Chance",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Lazy Skool Daze",
@@ -28574,7 +28389,7 @@
     },
     {
         "Camp Name": "LolliCock Confessions",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Furry Friday",
@@ -28608,7 +28423,7 @@
     },
     {
         "Camp Name": "Looners",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot Air Balloon Rides",
@@ -28656,7 +28471,7 @@
     },
     {
         "Camp Name": "Love Tripping",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Naked Breakfast Slop",
@@ -28720,7 +28535,7 @@
     },
     {
         "Camp Name": "Lucid Dream Hideout",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Delicious Iced Coffee and WiFi",
@@ -28746,7 +28561,7 @@
     },
     {
         "Camp Name": "Lucid Dreams",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Lucid Dreaming Tea Party with Projections",
@@ -28776,7 +28591,7 @@
     },
     {
         "Camp Name": "Lucid Paradise (formerly 50SOS)",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ice Cold Che (Vietnamese shaved ice)",
@@ -29134,7 +28949,7 @@
     },
     {
         "Camp Name": "MAD Recreational Movers",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Immediacy Phone Spa and Solar Salon",
@@ -29158,7 +28973,7 @@
     },
     {
         "Camp Name": "MAXA",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Apapacho",
@@ -29402,7 +29217,7 @@
     },
     {
         "Camp Name": "MINSTREL CrAMP",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Nonsense",
@@ -29549,11 +29364,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44084/"
             }
         ]
-    },
-    {
-        "Camp Name": "MOTHERPRISMS' MAD HOUSE",
-        "Location": "9:45 & A",
-        "Events": []
     },
     {
         "Camp Name": "MUSE",
@@ -29801,7 +29611,7 @@
     },
     {
         "Camp Name": "Magic Paradise",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Close-Up Magic & Bar",
@@ -29893,7 +29703,7 @@
     },
     {
         "Camp Name": "Martini Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "NV Burners photoshoot party-Peace Love & Hoppiness",
@@ -30031,7 +29841,7 @@
     },
     {
         "Camp Name": "Mattress Society",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tea, Tunes and Tipple",
@@ -30102,11 +29912,6 @@
         ]
     },
     {
-        "Camp Name": "Medici",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Mellow Mountain",
         "Location": "8:30 & E",
         "Events": [
@@ -30134,7 +29939,7 @@
     },
     {
         "Camp Name": "Menagerie",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Steampunk Decorations, Life Size Bird Cage Moments",
@@ -30420,7 +30225,7 @@
     },
     {
         "Camp Name": "Milk + Honey",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Milk+Honey Shabbat Prayer Service + Dinner",
@@ -30451,11 +30256,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/45626/"
             }
         ]
-    },
-    {
-        "Camp Name": "Mimosa",
-        "Location": "9:30 & B",
-        "Events": []
     },
     {
         "Camp Name": "MindShark",
@@ -30509,7 +30309,7 @@
     },
     {
         "Camp Name": "Mindless Movement",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Poetry for the People (and tea)",
@@ -31029,7 +30829,7 @@
     },
     {
         "Camp Name": "Mudskippers Caf\u00e9",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Crack is Whack: The Whitney Houston Tribute Party",
@@ -31049,7 +30849,7 @@
     },
     {
         "Camp Name": "My Dad's House",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dad's Group",
@@ -31289,7 +31089,7 @@
     },
     {
         "Camp Name": "My Favorite Things",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Mojito Making Workshop",
@@ -31407,7 +31207,7 @@
     },
     {
         "Camp Name": "Mysfit Mammalia - MM23",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hooman Control Party",
@@ -31623,7 +31423,7 @@
     },
     {
         "Camp Name": "NAACB",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Family Reunion",
@@ -32613,7 +32413,7 @@
     },
     {
         "Camp Name": "Nakked Zebra Bazaar",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Costume Bazaar",
@@ -32640,13 +32440,8 @@
         ]
     },
     {
-        "Camp Name": "NarCamp",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Naughty Naked (mini)Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tiny Tipi Temple of Sacred Union",
@@ -32818,7 +32613,7 @@
     },
     {
         "Camp Name": "Never Sleep Again",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The Breakfast Club",
@@ -33060,7 +32855,7 @@
     },
     {
         "Camp Name": "Nipple Pie",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Nipple Jams | Open Mic & Live Performances",
@@ -33098,7 +32893,7 @@
     },
     {
         "Camp Name": "No Bikini Atoll",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hydration Station",
@@ -33192,7 +32987,7 @@
     },
     {
         "Camp Name": "No Holes Barred Comedy Club",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Happy Hour, Stand Up Comedy & Open Mic",
@@ -33579,11 +33374,6 @@
         ]
     },
     {
-        "Camp Name": "Nonsense",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Nordic Paradise",
         "Location": "7:00 & B",
         "Events": [
@@ -33838,11 +33628,6 @@
         ]
     },
     {
-        "Camp Name": "Nowhere Portal",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Nuclear Dandelion",
         "Location": "7:45 & A",
         "Events": [
@@ -33871,13 +33656,8 @@
         ]
     },
     {
-        "Camp Name": "Nyurmok",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "OKNOTOK",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The SENSORIUM",
@@ -33956,13 +33736,8 @@
         ]
     },
     {
-        "Camp Name": "OPERA",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Ocean Beach",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beach smoothie bar",
@@ -34182,7 +33957,7 @@
     },
     {
         "Camp Name": "Oceyolotl Sanctuary",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "LA LUZ DE LA LUNA Healing Ceremony",
@@ -34210,7 +33985,7 @@
     },
     {
         "Camp Name": "Official Business",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Should I Bring My Kids to the Burn?",
@@ -34365,13 +34140,8 @@
         ]
     },
     {
-        "Camp Name": "One Love",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Orgy Bus Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sexy Afternoon Orgy!",
@@ -34559,7 +34329,7 @@
     },
     {
         "Camp Name": "PALINKA LOUNGE",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Vinyasa flow",
@@ -34615,7 +34385,7 @@
     },
     {
         "Camp Name": "PG Squirt House",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ask the Bartender",
@@ -34682,11 +34452,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44883/"
             }
         ]
-    },
-    {
-        "Camp Name": "Pacific",
-        "Location": "2:45 & H",
-        "Events": []
     },
     {
         "Camp Name": "Pam's Parlor",
@@ -34936,7 +34701,7 @@
     },
     {
         "Camp Name": "Patsy's Hangout",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Patsy's Bar",
@@ -35088,7 +34853,7 @@
     },
     {
         "Camp Name": "Penguin Place",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pakistani Chai at noon",
@@ -35554,7 +35319,7 @@
     },
     {
         "Camp Name": "Piehole",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pie Eating Competition",
@@ -35766,7 +35531,7 @@
     },
     {
         "Camp Name": "Pink Ponies",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Queer Homecoming",
@@ -35992,7 +35757,7 @@
     },
     {
         "Camp Name": "Planet Bound",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Om My Planet\u2026 (meet at PNTB)",
@@ -36280,7 +36045,7 @@
     },
     {
         "Camp Name": "Playa Agora",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Burlesqapella... Burlesque + A Capella",
@@ -36468,7 +36233,7 @@
     },
     {
         "Camp Name": "Playa Circuit Boogie",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ros\u00e9 5k",
@@ -36548,7 +36313,7 @@
     },
     {
         "Camp Name": "Playa Jazz Cafe",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Jazz Theory Workshop",
@@ -36682,7 +36447,7 @@
     },
     {
         "Camp Name": "Playa Penthouse",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Dancing: Electro Light & Fire show, Venetian Box",
@@ -36724,7 +36489,7 @@
     },
     {
         "Camp Name": "Playa Pinups and Fine Art Fatales",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "James Bondage Photo Booth",
@@ -36874,7 +36639,7 @@
     },
     {
         "Camp Name": "Playful Again!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Get off my lawn!",
@@ -36932,7 +36697,7 @@
     },
     {
         "Camp Name": "Playfully Yours Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Open Dungeon",
@@ -37133,11 +36898,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43663/"
             }
         ]
-    },
-    {
-        "Camp Name": "Polaris",
-        "Location": "9:45 & G",
-        "Events": []
     },
     {
         "Camp Name": "PolyParadise",
@@ -37565,7 +37325,7 @@
     },
     {
         "Camp Name": "Post Nuclear Family",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Mutation Decoration Station",
@@ -37622,11 +37382,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43118/"
             }
         ]
-    },
-    {
-        "Camp Name": "Potty Project",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Pour Decisions Winery",
@@ -37878,7 +37633,7 @@
     },
     {
         "Camp Name": "Psychedelic Foam Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Breath, Beats and Flow: Freestyle Vocal Playshop",
@@ -38084,7 +37839,7 @@
     },
     {
         "Camp Name": "Pussy Day Spa",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Inappropriate Massage",
@@ -38156,7 +37911,7 @@
     },
     {
         "Camp Name": "Questionable Chicken",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Deep House Pilates",
@@ -38206,7 +37961,7 @@
     },
     {
         "Camp Name": "Quetzalcoatl Reborn Art Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cacao Ceremony & Film",
@@ -38329,13 +38084,8 @@
         ]
     },
     {
-        "Camp Name": "Rabbit Hole",
-        "Location": "9:30 & E",
-        "Events": []
-    },
-    {
         "Camp Name": "Radiant Seed Temple",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Goddess Temple: The Festivities",
@@ -38355,7 +38105,7 @@
     },
     {
         "Camp Name": "Raditude (Formerly Fer Sherbert)",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Slow Yogamalia Flow with Sound Immersion Excursion",
@@ -38455,7 +38205,7 @@
     },
     {
         "Camp Name": "Ranger Headquarters",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Learn About the Black Rock Rangers",
@@ -38492,16 +38242,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/42460/"
             }
         ]
-    },
-    {
-        "Camp Name": "Recalibrate",
-        "Location": "6:30 & E",
-        "Events": []
-    },
-    {
-        "Camp Name": "Reception",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "Red Nose District",
@@ -38616,13 +38356,8 @@
         ]
     },
     {
-        "Camp Name": "Red Rooster Ranch",
-        "Location": "4:45 & F",
-        "Events": []
-    },
-    {
         "Camp Name": "Red.it.be",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Berlin Rumble. Techno shake",
@@ -38646,7 +38381,7 @@
     },
     {
         "Camp Name": "RedNeck Regal Theatre",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "RedNeck Regal Theater Movie Night",
@@ -38716,7 +38451,7 @@
     },
     {
         "Camp Name": "Refugee Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The Way of Tea \"Chanoyu\"",
@@ -38753,13 +38488,8 @@
         ]
     },
     {
-        "Camp Name": "Regis",
-        "Location": "3:45 & D",
-        "Events": []
-    },
-    {
         "Camp Name": "Relaxomatic",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Newbie of the Year of the Day Pageant",
@@ -38859,7 +38589,7 @@
     },
     {
         "Camp Name": "Remote Control",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Gladys the Self-Care Bear",
@@ -38921,7 +38651,7 @@
     },
     {
         "Camp Name": "Reno High Vibe Tribe!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Priestess Codes of Isis",
@@ -40197,7 +39927,7 @@
     },
     {
         "Camp Name": "Rumi's Tea House",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Iced Tea Bar and Lounge",
@@ -40315,7 +40045,7 @@
     },
     {
         "Camp Name": "Rumpus",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Misters and Mystics",
@@ -40541,7 +40271,7 @@
     },
     {
         "Camp Name": "S'mores NAMour",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "S'MORES",
@@ -40629,7 +40359,7 @@
     },
     {
         "Camp Name": "SIZE DOESN'T MATTER",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sunny's Sunglass Hut",
@@ -40659,7 +40389,7 @@
     },
     {
         "Camp Name": "STOOP.",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Nickelback or Pickleback",
@@ -40806,11 +40536,6 @@
         ]
     },
     {
-        "Camp Name": "Sacred Song Teahouse",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Saints & Sinners",
         "Location": "4:00 & E",
         "Events": [
@@ -40863,11 +40588,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/41791/"
             }
         ]
-    },
-    {
-        "Camp Name": "Salon Saloon",
-        "Location": "9:00 & A",
-        "Events": []
     },
     {
         "Camp Name": "Salon Soleil",
@@ -41127,7 +40847,7 @@
     },
     {
         "Camp Name": "Salty Jacks",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Kaftan Discotheque",
@@ -41169,7 +40889,7 @@
     },
     {
         "Camp Name": "Sand Mandala Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Burning Man-Themed Custom Medallions",
@@ -41213,7 +40933,7 @@
     },
     {
         "Camp Name": "Sans Pants Dance Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sans Pants Acro jam",
@@ -41469,7 +41189,7 @@
     },
     {
         "Camp Name": "Secret Garden",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Flow and Juggling Class/Jam",
@@ -41503,7 +41223,7 @@
     },
     {
         "Camp Name": "Secret Passage",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cocktails at Fluffy's Secret Cafe and Lounge",
@@ -41619,7 +41339,7 @@
     },
     {
         "Camp Name": "Self x",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Self x Surrender",
@@ -41679,7 +41399,7 @@
     },
     {
         "Camp Name": "Send Noods",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Send Noods",
@@ -41737,7 +41457,7 @@
     },
     {
         "Camp Name": "Serpent Moon",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Conscious Breathwork Journey",
@@ -41805,7 +41525,7 @@
     },
     {
         "Camp Name": "Servants of the Secret Fire",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Secret Fire Farewell Party",
@@ -42289,7 +42009,7 @@
     },
     {
         "Camp Name": "Sheep Thrills",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "FRITES & BEATS",
@@ -42420,11 +42140,6 @@
         ]
     },
     {
-        "Camp Name": "Silicon Village",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Silver City",
         "Location": "4:15 & E",
         "Events": [
@@ -42481,13 +42196,8 @@
         ]
     },
     {
-        "Camp Name": "Sin City",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Sin City Photo Studio",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sin City Photo Studio Souvenir Photo",
@@ -42507,7 +42217,7 @@
     },
     {
         "Camp Name": "Siren's Cove",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Pet Tag Making Animal Onesie Party",
@@ -42527,7 +42237,7 @@
     },
     {
         "Camp Name": "Sixes&Sevens",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Daily Beverage Service",
@@ -42571,7 +42281,7 @@
     },
     {
         "Camp Name": "Skrambles**!*",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The \"Now we dance! Now we fight\" Dance/Fight party",
@@ -43055,7 +42765,7 @@
     },
     {
         "Camp Name": "Solid City",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Scout's Tarot on the Green",
@@ -43257,7 +42967,7 @@
     },
     {
         "Camp Name": "Soul Forge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Parkour/Movement Games",
@@ -43577,7 +43287,7 @@
     },
     {
         "Camp Name": "Space Jellies",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Alien Help Desk",
@@ -43789,7 +43499,7 @@
     },
     {
         "Camp Name": "SpaceCatz",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Neighborhood MOOP Sweep",
@@ -43913,7 +43623,7 @@
     },
     {
         "Camp Name": "Spanky's Village (and Wine Bar)",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Wine Down Party",
@@ -43998,13 +43708,8 @@
         ]
     },
     {
-        "Camp Name": "Spanky's Wine Bar",
-        "Location": "7:30 & E",
-        "Events": []
-    },
-    {
         "Camp Name": "Sparkadia",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Solar Chill Tent",
@@ -44112,7 +43817,7 @@
     },
     {
         "Camp Name": "SpiritWild",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "PLAYAsana Yoga Flow Session",
@@ -44160,7 +43865,7 @@
     },
     {
         "Camp Name": "Spoonful of Friends",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Feast & Fraternize: A Serendipity Soir\u00e9e!",
@@ -44602,7 +44307,7 @@
     },
     {
         "Camp Name": "Star Whores Cantina",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hang Out With Your Wang Out",
@@ -44650,7 +44355,7 @@
     },
     {
         "Camp Name": "StarBarf",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot (Pool) Noods",
@@ -44908,7 +44613,7 @@
     },
     {
         "Camp Name": "Starship Aquarius",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The First-Ever Award-Winning Starship Dance Party",
@@ -45060,7 +44765,7 @@
     },
     {
         "Camp Name": "Sticky's Playground",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ecstatic Dance",
@@ -45206,7 +44911,7 @@
     },
     {
         "Camp Name": "Strong Tonic Center for Vitality",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Clinic and Pharmacy Hours",
@@ -45228,7 +44933,7 @@
     },
     {
         "Camp Name": "Summer Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Black Rock Nature Walk with Camp Counselor Pebbles",
@@ -45390,7 +45095,7 @@
     },
     {
         "Camp Name": "Sunrise Tavern",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Sunrise Breakfast",
@@ -45496,7 +45201,7 @@
     },
     {
         "Camp Name": "Sweaty's Last Resort",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Cool Down & Refresh NA Happy Hour",
@@ -45564,7 +45269,7 @@
     },
     {
         "Camp Name": "Synonymous Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Repent Tent",
@@ -45626,7 +45331,7 @@
     },
     {
         "Camp Name": "T.B.C.",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Hot Dogs and High Fives!",
@@ -45707,7 +45412,7 @@
         ]
     },
     {
-        "Camp Name": "TBD Camp",
+        "Camp Name": "Location Unspecified Camp",
         "Location": "8:45 & G",
         "Events": [
             {
@@ -45729,8 +45434,8 @@
                     "Saturday September 02, 2023"
                 ],
                 "Type": "Food & Drink",
-                "Located at Camp": "TBD Camp",
-                "Location": "TBD Camp",
+                "Located at Camp": "Location Unspecified Camp",
+                "Location": "Location Unspecified Camp",
                 "Description": "Join us for some refreshing cold brew and relax in our chill space. Come for the coffee, stay for the vibe.",
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43343/"
             }
@@ -45738,7 +45443,7 @@
     },
     {
         "Camp Name": "THE BELLIGERENT GAP",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "BELLIGERENT Brews",
@@ -45768,7 +45473,7 @@
     },
     {
         "Camp Name": "TOC Does Le Chalet",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Apres Ski Party",
@@ -45802,7 +45507,7 @@
     },
     {
         "Camp Name": "TRANCEylvania",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Palinca Shots and TRANCEylvania Sushi",
@@ -45878,7 +45583,7 @@
     },
     {
         "Camp Name": "Tantra Mantra",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Surrender to the Heart - Tantra Workshop",
@@ -45952,7 +45657,7 @@
     },
     {
         "Camp Name": "Team Fingerbang",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Fingerbang Family Feud",
@@ -46088,7 +45793,7 @@
     },
     {
         "Camp Name": "Teddies",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Anjunameats presents: Above & Beyond Meats",
@@ -46153,11 +45858,6 @@
         ]
     },
     {
-        "Camp Name": "Temple Guardians",
-        "Location": "5:30 & Esplanade",
-        "Events": []
-    },
-    {
         "Camp Name": "Temple of Bacchus",
         "Location": "8:15 & E",
         "Events": [
@@ -46187,7 +45887,7 @@
     },
     {
         "Camp Name": "Tequila Bees",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Tacos, Tequila & Tunes, Twice!",
@@ -46377,7 +46077,7 @@
     },
     {
         "Camp Name": "The Carrot Club",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Black Rock Farmers Market",
@@ -46437,7 +46137,7 @@
     },
     {
         "Camp Name": "The Crusty Swan",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Stop for A Wee Dram",
@@ -46464,11 +46164,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/44818/"
             }
         ]
-    },
-    {
-        "Camp Name": "The Dump",
-        "Location": "TBD",
-        "Events": []
     },
     {
         "Camp Name": "The Dusty Nuts Tavern",
@@ -46536,7 +46231,7 @@
     },
     {
         "Camp Name": "The Factory",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The Froth Factory Slammer Jammer",
@@ -46572,7 +46267,7 @@
     },
     {
         "Camp Name": "The Friend Zone",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Missed Connections Party",
@@ -46662,7 +46357,7 @@
     },
     {
         "Camp Name": "The Key Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Find Your Key + Have Cold Green Tea",
@@ -46686,7 +46381,7 @@
     },
     {
         "Camp Name": "The Lavender Lounge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Lavender Misting and Scalp Massage",
@@ -46916,7 +46611,7 @@
     },
     {
         "Camp Name": "The Petting Zoo",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Big Wheel Dildo Jousting",
@@ -46988,7 +46683,7 @@
     },
     {
         "Camp Name": "The Pineapple Motel",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Morning Breakfast Bar",
@@ -47013,13 +46708,8 @@
         ]
     },
     {
-        "Camp Name": "The Pit",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "The Pleasure Dairy",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "The Tits Bar",
@@ -47258,11 +46948,6 @@
         ]
     },
     {
-        "Camp Name": "The Shangri-Lounge",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "The Shire",
         "Location": "4:45 & C",
         "Events": [
@@ -47366,7 +47051,7 @@
     },
     {
         "Camp Name": "The Space Between",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "I Do & Undo Arena",
@@ -47434,7 +47119,7 @@
     },
     {
         "Camp Name": "The Surge",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Come hang out, have some coffee with us",
@@ -47672,7 +47357,7 @@
     },
     {
         "Camp Name": "Theme Camp Theme Camp",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Get Shrek'd!",
@@ -47725,11 +47410,6 @@
         ]
     },
     {
-        "Camp Name": "Thirst Trap",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "Thump Drippins",
         "Location": "2:45 & D",
         "Events": [
@@ -47773,7 +47453,7 @@
     },
     {
         "Camp Name": "Titicaca",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Church of Cage: Confession Bar",
@@ -47837,7 +47517,7 @@
     },
     {
         "Camp Name": "Toxic Disco Clam",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Moopmosas",
@@ -47907,7 +47587,7 @@
     },
     {
         "Camp Name": "Trancesend",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Trance and Hot Dogs",
@@ -48101,7 +47781,7 @@
     },
     {
         "Camp Name": "Twisted",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Twisted High Tea and Scones",
@@ -48205,7 +47885,7 @@
     },
     {
         "Camp Name": "Two Lanterns",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Unofficial Playa Civil Unions",
@@ -48283,7 +47963,7 @@
     },
     {
         "Camp Name": "Uli Baba & the Horny Thieves",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Uli Baba's Infamous Auction",
@@ -48387,7 +48067,7 @@
     },
     {
         "Camp Name": "Unfuck Your Burn",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Soul Singing Circle",
@@ -48551,7 +48231,7 @@
     },
     {
         "Camp Name": "United Fuckers Market",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Semen Bubble Tea",
@@ -48851,7 +48531,7 @@
     },
     {
         "Camp Name": "Vibe Check",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Moon and Planet gazing with Lunar Snacks",
@@ -49097,7 +48777,7 @@
     },
     {
         "Camp Name": "Vietnamese Iced Coffee Experience",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Bloody Mary Mornings",
@@ -49261,7 +48941,7 @@
     },
     {
         "Camp Name": "Vuja De",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beer and Pop Tarts",
@@ -49730,11 +49410,6 @@
         ]
     },
     {
-        "Camp Name": "White Rabbit",
-        "Location": "TBD",
-        "Events": []
-    },
-    {
         "Camp Name": "White Trash Superstars (WTS)",
         "Location": "2:30 & Esplanade",
         "Events": [
@@ -49899,11 +49574,6 @@
         ]
     },
     {
-        "Camp Name": "Wrong?",
-        "Location": "6:00 & E",
-        "Events": []
-    },
-    {
         "Camp Name": "WrongoWrongo",
         "Location": "4:45 & I",
         "Events": [
@@ -50030,13 +49700,8 @@
         ]
     },
     {
-        "Camp Name": "Y2K",
-        "Location": "8:45 & H",
-        "Events": []
-    },
-    {
         "Camp Name": "YOUniversal",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "YOUniversal Teahouse - 4:45 + D",
@@ -50086,7 +49751,7 @@
     },
     {
         "Camp Name": "Yalla",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Coming In Closet",
@@ -50176,7 +49841,7 @@
     },
     {
         "Camp Name": "Yeah Man!",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Throwback Thursday",
@@ -50480,7 +50145,7 @@
     },
     {
         "Camp Name": "Zen as Fuck",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Beginner Acro Workshop",
@@ -50638,7 +50303,7 @@
     },
     {
         "Camp Name": "[The Camp With No Name]",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Melbourne Shuffle Dance Play",
@@ -50669,11 +50334,6 @@
                 "Full Details": "https://playaevents.burningman.org/2023/playa_event/43771/"
             }
         ]
-    },
-    {
-        "Camp Name": "badlands",
-        "Location": "9:15 & E",
-        "Events": []
     },
     {
         "Camp Name": "dust & stars",
@@ -50765,7 +50425,7 @@
     },
     {
         "Camp Name": "gNarnia/ Assland Village",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "gNarnia gNectar: Cold Brew and Matcha on Ice",
@@ -50893,7 +50553,7 @@
     },
     {
         "Camp Name": "qt pies",
-        "Location": "TBD",
+        "Location": "Location Unspecified",
         "Events": [
             {
                 "Event Name": "Ways of Going: A Mortality Meditation",
