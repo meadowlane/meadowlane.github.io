@@ -34,7 +34,7 @@ def correct_events(camps_data):
 
 
 # Importing data from the file
-with open("data/updated_camp_detail.json", "r") as file:
+with open("data/updated_camp_details.json", "r") as file:
     data = json.load(file)
 
 corrected_data = correct_events(data)
