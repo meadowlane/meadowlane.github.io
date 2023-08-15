@@ -6,7 +6,8 @@ $(document).ready(function() {
                 { name: 'Camp Name', weight: 2},
                 { name: 'Location', weight: 1},
                 { name: 'Description', weight: 1 },
-                { name: 'Date and Time', weight: 1}
+                { name: 'Date and Time', weight: 1},
+                { name: 'Type', weight: 1}
             ],
             threshold: 0.25,
             includeScore: true
