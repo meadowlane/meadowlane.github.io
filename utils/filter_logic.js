@@ -1,7 +1,7 @@
 let data = [];
 
 async function loadData() {
-    const response = await fetch('/data/updated_camp_detail.json');
+    const response = await fetch('/data/updated_camp_details.json');
     data = await response.json();
     populateDropdowns();
 }
