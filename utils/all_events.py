@@ -10,7 +10,8 @@ def extract_events_from_data(data):
             events.append(event)
     return events
 
-with open("../data/updated_camp_detail_found.json", "r") as input_file:
+
+with open("../data/updated_camp_details.json", "r") as input_file:
     data = json.load(input_file)
 
     # Extract all events
